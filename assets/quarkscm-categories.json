@@ -1,0 +1,7421 @@
+{
+    "code": 200,
+    "data": [
+      {
+        "_id": "12000",
+        "name": "Cellphone & Accessories",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12001",
+        "name": "Smartphones",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12002",
+        "name": "xiaomi",
+        "parent_id": "12001",
+        "level": 3
+      },
+      {
+        "_id": "12003",
+        "name": "LeEco",
+        "parent_id": "12001",
+        "level": 3
+      },
+      {
+        "_id": "12004",
+        "name": "Umi",
+        "parent_id": "12001",
+        "level": 3
+      },
+      {
+        "_id": "12005",
+        "name": "Oukitel",
+        "parent_id": "12001",
+        "level": 3
+      },
+      {
+        "_id": "12006",
+        "name": "Blackview",
+        "parent_id": "12001",
+        "level": 3
+      },
+      {
+        "_id": "12007",
+        "name": "Others",
+        "parent_id": "12001",
+        "level": 3
+      },
+      {
+        "_id": "12008",
+        "name": "Smart Devices",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12009",
+        "name": "Smart Watches & Wristbands",
+        "parent_id": "12008",
+        "level": 3
+      },
+      {
+        "_id": "12010",
+        "name": "Watch Cellphones",
+        "parent_id": "12008",
+        "level": 3
+      },
+      {
+        "_id": "12012",
+        "name": "Others",
+        "parent_id": "12008",
+        "level": 3
+      },
+      {
+        "_id": "290975",
+        "name": "Wireless Gaming Controller",
+        "parent_id": "12008",
+        "level": 3
+      },
+      {
+        "_id": "12013",
+        "name": "iPhone Accessories",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12014",
+        "name": "iPhone Cases",
+        "parent_id": "12013",
+        "level": 3
+      },
+      {
+        "_id": "12015",
+        "name": "iPhone Screen Protector",
+        "parent_id": "12013",
+        "level": 3
+      },
+      {
+        "_id": "12016",
+        "name": "Apple watch accessories",
+        "parent_id": "12013",
+        "level": 3
+      },
+      {
+        "_id": "12017",
+        "name": "Cables & Chargers",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12018",
+        "name": "USB Car Chargers",
+        "parent_id": "12017",
+        "level": 3
+      },
+      {
+        "_id": "12019",
+        "name": "AC Chargers",
+        "parent_id": "12017",
+        "level": 3
+      },
+      {
+        "_id": "12020",
+        "name": "Cables",
+        "parent_id": "12017",
+        "level": 3
+      },
+      {
+        "_id": "12021",
+        "name": "Earphones & Speakers",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "290965",
+        "name": "Earphone",
+        "parent_id": "12021",
+        "level": 3
+      },
+      {
+        "_id": "290976",
+        "name": "Speakers",
+        "parent_id": "12021",
+        "level": 3
+      },
+      {
+        "_id": "12022",
+        "name": "Batteries & Powerbank",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12023",
+        "name": "Protective Cases",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12024",
+        "name": "Cover Film",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12025",
+        "name": "Mounts & Holders",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12026",
+        "name": "DIY Tools",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12027",
+        "name": "Others",
+        "parent_id": "12000",
+        "level": 2
+      },
+      {
+        "_id": "12028",
+        "name": "Cameras & Photo Accessories",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12029",
+        "name": "Cameras & Camorders",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12030",
+        "name": "Sports & Action Camera",
+        "parent_id": "12029",
+        "level": 3
+      },
+      {
+        "_id": "12031",
+        "name": "Video Camcorder",
+        "parent_id": "12029",
+        "level": 3
+      },
+      {
+        "_id": "12032",
+        "name": "Panoramic Camera",
+        "parent_id": "12029",
+        "level": 3
+      },
+      {
+        "_id": "12033",
+        "name": "Digital Camera",
+        "parent_id": "12029",
+        "level": 3
+      },
+      {
+        "_id": "12034",
+        "name": "Fujifilm Instax Camera",
+        "parent_id": "12029",
+        "level": 3
+      },
+      {
+        "_id": "12035",
+        "name": "Mini Camera",
+        "parent_id": "12029",
+        "level": 3
+      },
+      {
+        "_id": "12036",
+        "name": "Action Camera Accessories",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12037",
+        "name": "Handheld Grip",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12038",
+        "name": "Wearable Accessories",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12039",
+        "name": "Mount Support & Holders",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12040",
+        "name": "Diving Accessoris",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12041",
+        "name": "Lens Accessories",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12042",
+        "name": "Battery & Charger",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12043",
+        "name": "Fill-in Lighting",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12044",
+        "name": "Action Camera Accessories Set",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12045",
+        "name": "Protection accessories",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12046",
+        "name": "Other Accessories",
+        "parent_id": "12036",
+        "level": 3
+      },
+      {
+        "_id": "12047",
+        "name": "LED Video Lighting & Accessories",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12048",
+        "name": "LED Panel Fill Light",
+        "parent_id": "12047",
+        "level": 3
+      },
+      {
+        "_id": "12049",
+        "name": "LED Ring Fill Light",
+        "parent_id": "12047",
+        "level": 3
+      },
+      {
+        "_id": "12050",
+        "name": "Phone Fill-in light",
+        "parent_id": "12047",
+        "level": 3
+      },
+      {
+        "_id": "12051",
+        "name": "LED Focus Light",
+        "parent_id": "12047",
+        "level": 3
+      },
+      {
+        "_id": "12052",
+        "name": "LED Bulbs & Lamps",
+        "parent_id": "12047",
+        "level": 3
+      },
+      {
+        "_id": "12053",
+        "name": "LED Light Stand Holder",
+        "parent_id": "12047",
+        "level": 3
+      },
+      {
+        "_id": "12054",
+        "name": "LED Photography Light Kit",
+        "parent_id": "12047",
+        "level": 3
+      },
+      {
+        "_id": "12055",
+        "name": "Other LED Light Accessories",
+        "parent_id": "12047",
+        "level": 3
+      },
+      {
+        "_id": "12056",
+        "name": "Speedlite Flash Lights & Accessories",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12057",
+        "name": "On Camera Speedlite",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12058",
+        "name": "Ring Flash Speedlite Light",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12059",
+        "name": "Professional Studio Strobe Flash",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12060",
+        "name": "Studio Speedlite Flash Kit",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12061",
+        "name": "Softbox Reflector & Diffuser",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12062",
+        "name": "Video Light Reflector",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12063",
+        "name": "Speedlite Flash Trigger",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12064",
+        "name": "Speedlite Connecting Cables",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12065",
+        "name": "Flash Mount Adapters & Stands",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12066",
+        "name": "Other Speedlite Accessories",
+        "parent_id": "12056",
+        "level": 3
+      },
+      {
+        "_id": "12067",
+        "name": "Photography Studio Equipment",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12068",
+        "name": "Professional Studio Kit",
+        "parent_id": "12067",
+        "level": 3
+      },
+      {
+        "_id": "12069",
+        "name": "Studio Shot Box",
+        "parent_id": "12067",
+        "level": 3
+      },
+      {
+        "_id": "12070",
+        "name": "Photography Backdrop Background",
+        "parent_id": "12067",
+        "level": 3
+      },
+      {
+        "_id": "12071",
+        "name": "Background Stand & Light Stand",
+        "parent_id": "12067",
+        "level": 3
+      },
+      {
+        "_id": "12072",
+        "name": "Photography Shooting Table",
+        "parent_id": "12067",
+        "level": 3
+      },
+      {
+        "_id": "12073",
+        "name": "Other Studio Accessories",
+        "parent_id": "12067",
+        "level": 3
+      },
+      {
+        "_id": "12074",
+        "name": "Video Film Making Equipment",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12075",
+        "name": "Video Monitor",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12076",
+        "name": "Video Microphone",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12077",
+        "name": "Stabilizer",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12078",
+        "name": "Follow Focus",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12079",
+        "name": "Matte Box",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12080",
+        "name": "Shoulder Mount Support",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12081",
+        "name": "Video Camera Slider & Dolly",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12082",
+        "name": "Video Cage",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12083",
+        "name": "Other Video Making Equipment",
+        "parent_id": "12074",
+        "level": 3
+      },
+      {
+        "_id": "12084",
+        "name": "Tripods & Supports",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12085",
+        "name": "Tripod",
+        "parent_id": "12084",
+        "level": 3
+      },
+      {
+        "_id": "12086",
+        "name": "Monopod",
+        "parent_id": "12084",
+        "level": 3
+      },
+      {
+        "_id": "12087",
+        "name": "Tabletop & Mini Tripod",
+        "parent_id": "12084",
+        "level": 3
+      },
+      {
+        "_id": "12088",
+        "name": "Tripod Head",
+        "parent_id": "12084",
+        "level": 3
+      },
+      {
+        "_id": "12089",
+        "name": "Quick Release",
+        "parent_id": "12084",
+        "level": 3
+      },
+      {
+        "_id": "12090",
+        "name": "Self Portrait Stick",
+        "parent_id": "12084",
+        "level": 3
+      },
+      {
+        "_id": "12091",
+        "name": "Smartphone Clip Holder",
+        "parent_id": "12084",
+        "level": 3
+      },
+      {
+        "_id": "12092",
+        "name": "Other Tripod Accessories",
+        "parent_id": "12084",
+        "level": 3
+      },
+      {
+        "_id": "12093",
+        "name": "Lenses & Filters",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12094",
+        "name": "Camera Lens",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12095",
+        "name": "Lens Cap Cover & Hood",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12096",
+        "name": "Extension Tube",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12097",
+        "name": "Camera Viewfinder",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12098",
+        "name": "Lens Adapters & Converters",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12099",
+        "name": "Lens Support Bracket",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12100",
+        "name": "Other Lens Accessories",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12101",
+        "name": "Close-Up Filter",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12102",
+        "name": "Graduated Filter",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12103",
+        "name": "Multi-Coated Lens Filter",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12104",
+        "name": "CPL Circular Polarizer",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12105",
+        "name": "MRC UV Filter",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12106",
+        "name": "Filter Set",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12107",
+        "name": "Other Filter Accessories",
+        "parent_id": "12093",
+        "level": 3
+      },
+      {
+        "_id": "12108",
+        "name": "Battery & Charger Accessories",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12109",
+        "name": "Camera Battery & Charger",
+        "parent_id": "12108",
+        "level": 3
+      },
+      {
+        "_id": "12110",
+        "name": "Camcorder Battery & Charger",
+        "parent_id": "12108",
+        "level": 3
+      },
+      {
+        "_id": "12111",
+        "name": "Battery Grip Holder",
+        "parent_id": "12108",
+        "level": 3
+      },
+      {
+        "_id": "12112",
+        "name": "Battery Mount Adapter",
+        "parent_id": "12108",
+        "level": 3
+      },
+      {
+        "_id": "12113",
+        "name": "Other Charger Accessories",
+        "parent_id": "12108",
+        "level": 3
+      },
+      {
+        "_id": "12114",
+        "name": "Photo Frames & Cameras Bags",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12115",
+        "name": "Digital Photo Frame",
+        "parent_id": "12114",
+        "level": 3
+      },
+      {
+        "_id": "12116",
+        "name": "Camera Protective Bag",
+        "parent_id": "12114",
+        "level": 3
+      },
+      {
+        "_id": "12117",
+        "name": "FUjiflim Instax Bag",
+        "parent_id": "12114",
+        "level": 3
+      },
+      {
+        "_id": "12119",
+        "name": "Load Vest Support",
+        "parent_id": "12114",
+        "level": 3
+      },
+      {
+        "_id": "12120",
+        "name": "Other Camera Bag Accessories",
+        "parent_id": "12114",
+        "level": 3
+      },
+      {
+        "_id": "290977",
+        "name": "Camera Strap",
+        "parent_id": "12114",
+        "level": 3
+      },
+      {
+        "_id": "12121",
+        "name": "Telescope & Accessories",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12122",
+        "name": "Binocular Telescope",
+        "parent_id": "12121",
+        "level": 3
+      },
+      {
+        "_id": "12123",
+        "name": "Monocular Telescope",
+        "parent_id": "12121",
+        "level": 3
+      },
+      {
+        "_id": "12124",
+        "name": "Astronomical Telescope",
+        "parent_id": "12121",
+        "level": 3
+      },
+      {
+        "_id": "12126",
+        "name": "Other Camera Accessories",
+        "parent_id": "12028",
+        "level": 2
+      },
+      {
+        "_id": "12127",
+        "name": "Timer Shutter & Remote Control",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12128",
+        "name": "Screen Protector",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12129",
+        "name": "Memory Card",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12130",
+        "name": "Camera Cleaning Tool",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12131",
+        "name": "Camera Repairing Tool",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12132",
+        "name": "waterproof & Diving Supplies",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12133",
+        "name": "Balance Shot Hot Mount",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12134",
+        "name": "Connecting Cable",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12135",
+        "name": "Others",
+        "parent_id": "12126",
+        "level": 3
+      },
+      {
+        "_id": "12136",
+        "name": "Toys & Hobbies",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12137",
+        "name": "RC Toys & Hobbies",
+        "parent_id": "12136",
+        "level": 2
+      },
+      {
+        "_id": "12138",
+        "name": "RC Multicopter",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12139",
+        "name": "Aerial Photography Multicopter",
+        "parent_id": "12138",
+        "level": 4
+      },
+      {
+        "_id": "12140",
+        "name": "FPV Racing Drone",
+        "parent_id": "12138",
+        "level": 4
+      },
+      {
+        "_id": "12141",
+        "name": "RC Quadcopters",
+        "parent_id": "12138",
+        "level": 4
+      },
+      {
+        "_id": "12142",
+        "name": "RC Quadcopter Parts",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12143",
+        "name": "Propeller",
+        "parent_id": "12142",
+        "level": 4
+      },
+      {
+        "_id": "12144",
+        "name": "Motor",
+        "parent_id": "12142",
+        "level": 4
+      },
+      {
+        "_id": "12145",
+        "name": "Battery",
+        "parent_id": "12142",
+        "level": 4
+      },
+      {
+        "_id": "12146",
+        "name": "Others",
+        "parent_id": "12142",
+        "level": 4
+      },
+      {
+        "_id": "12147",
+        "name": "Multi Rotor Parts",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12148",
+        "name": "FPV Racer",
+        "parent_id": "12147",
+        "level": 4
+      },
+      {
+        "_id": "12149",
+        "name": "Micro Racer",
+        "parent_id": "12147",
+        "level": 4
+      },
+      {
+        "_id": "12150",
+        "name": "Racing Frame",
+        "parent_id": "12147",
+        "level": 4
+      },
+      {
+        "_id": "12151",
+        "name": "Motor",
+        "parent_id": "12147",
+        "level": 4
+      },
+      {
+        "_id": "12152",
+        "name": "ESC",
+        "parent_id": "12147",
+        "level": 4
+      },
+      {
+        "_id": "12153",
+        "name": "Propeller",
+        "parent_id": "12147",
+        "level": 4
+      },
+      {
+        "_id": "12155",
+        "name": "Others",
+        "parent_id": "12147",
+        "level": 4
+      },
+      {
+        "_id": "290978",
+        "name": "Flight Controller & GPS",
+        "parent_id": "12147",
+        "level": 4
+      },
+      {
+        "_id": "12156",
+        "name": "RC Helicopter",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12157",
+        "name": "Professional Level",
+        "parent_id": "12156",
+        "level": 4
+      },
+      {
+        "_id": "12158",
+        "name": "Entry-Level",
+        "parent_id": "12156",
+        "level": 4
+      },
+      {
+        "_id": "12159",
+        "name": "RC Helicopter Parts",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12160",
+        "name": "Blades",
+        "parent_id": "12159",
+        "level": 4
+      },
+      {
+        "_id": "12162",
+        "name": "Motor & ESC",
+        "parent_id": "12159",
+        "level": 4
+      },
+      {
+        "_id": "12163",
+        "name": "Servo & Servo parts",
+        "parent_id": "12159",
+        "level": 4
+      },
+      {
+        "_id": "12164",
+        "name": "Others",
+        "parent_id": "12159",
+        "level": 4
+      },
+      {
+        "_id": "12165",
+        "name": "RC Airplane",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12166",
+        "name": "FPV Models",
+        "parent_id": "12165",
+        "level": 4
+      },
+      {
+        "_id": "12167",
+        "name": "Warbirds",
+        "parent_id": "12165",
+        "level": 4
+      },
+      {
+        "_id": "12168",
+        "name": "Parkfly & Indoor",
+        "parent_id": "12165",
+        "level": 4
+      },
+      {
+        "_id": "12169",
+        "name": "Jets & Ducted Fan",
+        "parent_id": "12165",
+        "level": 4
+      },
+      {
+        "_id": "12170",
+        "name": "Biplanes",
+        "parent_id": "12165",
+        "level": 4
+      },
+      {
+        "_id": "12172",
+        "name": "Glider & Flyingwing",
+        "parent_id": "12165",
+        "level": 4
+      },
+      {
+        "_id": "12173",
+        "name": "Delta",
+        "parent_id": "12165",
+        "level": 4
+      },
+      {
+        "_id": "12175",
+        "name": "RC Airplane Parts",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12176",
+        "name": "Motor & ESC",
+        "parent_id": "12175",
+        "level": 4
+      },
+      {
+        "_id": "12177",
+        "name": "Propeller",
+        "parent_id": "12175",
+        "level": 4
+      },
+      {
+        "_id": "12178",
+        "name": "Servo & Parts",
+        "parent_id": "12175",
+        "level": 4
+      },
+      {
+        "_id": "12179",
+        "name": "Wheels, Landing Gear",
+        "parent_id": "12175",
+        "level": 4
+      },
+      {
+        "_id": "12180",
+        "name": "Other DIY Accessories",
+        "parent_id": "12175",
+        "level": 4
+      },
+      {
+        "_id": "12181",
+        "name": "RC Car",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12182",
+        "name": "Buggy",
+        "parent_id": "12181",
+        "level": 4
+      },
+      {
+        "_id": "12183",
+        "name": "Monster Truck",
+        "parent_id": "12181",
+        "level": 4
+      },
+      {
+        "_id": "12184",
+        "name": "Short Course",
+        "parent_id": "12181",
+        "level": 4
+      },
+      {
+        "_id": "12185",
+        "name": "Rock Crawler",
+        "parent_id": "12181",
+        "level": 4
+      },
+      {
+        "_id": "12186",
+        "name": "Drfiting Car",
+        "parent_id": "12181",
+        "level": 4
+      },
+      {
+        "_id": "12187",
+        "name": "Rally & Racer",
+        "parent_id": "12181",
+        "level": 4
+      },
+      {
+        "_id": "12189",
+        "name": "Other Car Toys",
+        "parent_id": "12181",
+        "level": 4
+      },
+      {
+        "_id": "290979",
+        "name": "Gas Car",
+        "parent_id": "12181",
+        "level": 4
+      },
+      {
+        "_id": "12190",
+        "name": "RC Car Parts",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12191",
+        "name": "ESC & Program Card",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "12192",
+        "name": "Motor & Accessories",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "12193",
+        "name": "Servo & Parts",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "12194",
+        "name": "Shock Absorbers",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "12196",
+        "name": "Wheels & Tires",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "12197",
+        "name": "Lighting Accessories",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "12199",
+        "name": "Pinion & Spur Gears",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "12200",
+        "name": "Others",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "290980",
+        "name": "Bodies,Wings & Accessories",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "290981",
+        "name": "Bearings",
+        "parent_id": "12190",
+        "level": 4
+      },
+      {
+        "_id": "12201",
+        "name": "RC Boat",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12202",
+        "name": "RC Boat Parts",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12203",
+        "name": "ESC",
+        "parent_id": "12202",
+        "level": 4
+      },
+      {
+        "_id": "12204",
+        "name": "Servo",
+        "parent_id": "12202",
+        "level": 4
+      },
+      {
+        "_id": "12205",
+        "name": "Motor & Accessories",
+        "parent_id": "12202",
+        "level": 4
+      },
+      {
+        "_id": "12206",
+        "name": "Propeller",
+        "parent_id": "12202",
+        "level": 4
+      },
+      {
+        "_id": "12208",
+        "name": "Other Accessories",
+        "parent_id": "12202",
+        "level": 4
+      },
+      {
+        "_id": "290982",
+        "name": "Boat Body",
+        "parent_id": "12202",
+        "level": 4
+      },
+      {
+        "_id": "12209",
+        "name": "FPV System",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12210",
+        "name": "Video Goggles & Monitors",
+        "parent_id": "12209",
+        "level": 4
+      },
+      {
+        "_id": "12211",
+        "name": "FPV Cameras & Lenses",
+        "parent_id": "12209",
+        "level": 4
+      },
+      {
+        "_id": "12212",
+        "name": "Transmitters & Receivers",
+        "parent_id": "12209",
+        "level": 4
+      },
+      {
+        "_id": "12213",
+        "name": "Gimbals & Accessories",
+        "parent_id": "12209",
+        "level": 4
+      },
+      {
+        "_id": "12214",
+        "name": "Image Transmission & OSD",
+        "parent_id": "12209",
+        "level": 4
+      },
+      {
+        "_id": "12215",
+        "name": "Antennas",
+        "parent_id": "12209",
+        "level": 4
+      },
+      {
+        "_id": "12216",
+        "name": "Other DIY Accessories",
+        "parent_id": "12209",
+        "level": 4
+      },
+      {
+        "_id": "12217",
+        "name": "Radios & Receiver",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12218",
+        "name": "Transmitter & Transmitter Module",
+        "parent_id": "12217",
+        "level": 4
+      },
+      {
+        "_id": "12219",
+        "name": "Receiver Module",
+        "parent_id": "12217",
+        "level": 4
+      },
+      {
+        "_id": "12220",
+        "name": "Flight Simulator",
+        "parent_id": "12217",
+        "level": 4
+      },
+      {
+        "_id": "12221",
+        "name": "Battery & Charger",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12222",
+        "name": "Battery",
+        "parent_id": "12221",
+        "level": 4
+      },
+      {
+        "_id": "12223",
+        "name": "Charger",
+        "parent_id": "12221",
+        "level": 4
+      },
+      {
+        "_id": "12225",
+        "name": "Battery Tester",
+        "parent_id": "12221",
+        "level": 4
+      },
+      {
+        "_id": "12226",
+        "name": "Charger Adapter",
+        "parent_id": "12221",
+        "level": 4
+      },
+      {
+        "_id": "12227",
+        "name": "Charger Board",
+        "parent_id": "12221",
+        "level": 4
+      },
+      {
+        "_id": "12228",
+        "name": "Explosion Proof Bag",
+        "parent_id": "12221",
+        "level": 4
+      },
+      {
+        "_id": "12229",
+        "name": "Other Battery & Charger Parts",
+        "parent_id": "12221",
+        "level": 4
+      },
+      {
+        "_id": "290983",
+        "name": "Battery Strap",
+        "parent_id": "12221",
+        "level": 4
+      },
+      {
+        "_id": "12230",
+        "name": "RC Robot",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12231",
+        "name": "Connector & Cable & Wire",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12232",
+        "name": "Connector Adapters",
+        "parent_id": "12231",
+        "level": 4
+      },
+      {
+        "_id": "12233",
+        "name": "Charging wires & Cables",
+        "parent_id": "12231",
+        "level": 4
+      },
+      {
+        "_id": "12234",
+        "name": "Servo & jumper Wires & Cables",
+        "parent_id": "12231",
+        "level": 4
+      },
+      {
+        "_id": "12235",
+        "name": "Others",
+        "parent_id": "12231",
+        "level": 4
+      },
+      {
+        "_id": "12236",
+        "name": "Tools & Bags & Tester",
+        "parent_id": "12137",
+        "level": 3
+      },
+      {
+        "_id": "12237",
+        "name": "Tools",
+        "parent_id": "12236",
+        "level": 4
+      },
+      {
+        "_id": "12238",
+        "name": "Bags",
+        "parent_id": "12236",
+        "level": 4
+      },
+      {
+        "_id": "12239",
+        "name": "Tester",
+        "parent_id": "12236",
+        "level": 4
+      },
+      {
+        "_id": "12240",
+        "name": "Others",
+        "parent_id": "12236",
+        "level": 4
+      },
+      {
+        "_id": "12241",
+        "name": "Puzzle & Educational",
+        "parent_id": "12136",
+        "level": 2
+      },
+      {
+        "_id": "12242",
+        "name": "Logic & Puzzle Toys",
+        "parent_id": "12241",
+        "level": 3
+      },
+      {
+        "_id": "12243",
+        "name": "Science & Discovery Toys",
+        "parent_id": "12241",
+        "level": 3
+      },
+      {
+        "_id": "12244",
+        "name": "Model & Building Toys",
+        "parent_id": "12241",
+        "level": 3
+      },
+      {
+        "_id": "12245",
+        "name": "Kids Musical Instrument",
+        "parent_id": "12241",
+        "level": 3
+      },
+      {
+        "_id": "12246",
+        "name": "Other Educational Toys",
+        "parent_id": "12241",
+        "level": 3
+      },
+      {
+        "_id": "12247",
+        "name": "Classic & Retro Toys",
+        "parent_id": "12136",
+        "level": 2
+      },
+      {
+        "_id": "12248",
+        "name": "Yoyo & Gyro Toys",
+        "parent_id": "12247",
+        "level": 3
+      },
+      {
+        "_id": "12249",
+        "name": "Classic Toys",
+        "parent_id": "12247",
+        "level": 3
+      },
+      {
+        "_id": "12250",
+        "name": "Dolls & Plush",
+        "parent_id": "12136",
+        "level": 2
+      },
+      {
+        "_id": "12251",
+        "name": "Puppets",
+        "parent_id": "12250",
+        "level": 3
+      },
+      {
+        "_id": "12252",
+        "name": "Action Figures",
+        "parent_id": "12136",
+        "level": 2
+      },
+      {
+        "_id": "12253",
+        "name": "Movies & TV Action Figures",
+        "parent_id": "12252",
+        "level": 3
+      },
+      {
+        "_id": "12254",
+        "name": "Novelty & Gag Toys",
+        "parent_id": "12136",
+        "level": 2
+      },
+      {
+        "_id": "12255",
+        "name": "Novelty Toys",
+        "parent_id": "12254",
+        "level": 3
+      },
+      {
+        "_id": "12256",
+        "name": "Solar Powered Toys",
+        "parent_id": "12254",
+        "level": 3
+      },
+      {
+        "_id": "12257",
+        "name": "Video Games",
+        "parent_id": "12136",
+        "level": 2
+      },
+      {
+        "_id": "12258",
+        "name": "Nintendo Video Games Accessories",
+        "parent_id": "12257",
+        "level": 3
+      },
+      {
+        "_id": "12259",
+        "name": "Microsoft XBOX 360 & ONE Accessories",
+        "parent_id": "12257",
+        "level": 3
+      },
+      {
+        "_id": "12260",
+        "name": "Sony Video Game Accessories",
+        "parent_id": "12257",
+        "level": 3
+      },
+      {
+        "_id": "12261",
+        "name": "PC Video Games Accessories",
+        "parent_id": "12257",
+        "level": 3
+      },
+      {
+        "_id": "12262",
+        "name": "Handheld Game Players",
+        "parent_id": "12257",
+        "level": 3
+      },
+      {
+        "_id": "12263",
+        "name": "Retro Gaming",
+        "parent_id": "12257",
+        "level": 3
+      },
+      {
+        "_id": "12264",
+        "name": "Musical Instruments",
+        "parent_id": "12136",
+        "level": 2
+      },
+      {
+        "_id": "12273",
+        "name": "Musical Effects",
+        "parent_id": "12264",
+        "level": 3
+      },
+      {
+        "_id": "12274",
+        "name": "Effect Pedal",
+        "parent_id": "12273",
+        "level": 4
+      },
+      {
+        "_id": "12275",
+        "name": "Capo",
+        "parent_id": "12273",
+        "level": 4
+      },
+      {
+        "_id": "12276",
+        "name": "Tuner",
+        "parent_id": "12273",
+        "level": 4
+      },
+      {
+        "_id": "12277",
+        "name": "Sound Mixer",
+        "parent_id": "12273",
+        "level": 4
+      },
+      {
+        "_id": "12278",
+        "name": "Metronome",
+        "parent_id": "12273",
+        "level": 4
+      },
+      {
+        "_id": "12279",
+        "name": "Pickup",
+        "parent_id": "12273",
+        "level": 4
+      },
+      {
+        "_id": "12280",
+        "name": "Woodwinds",
+        "parent_id": "12264",
+        "level": 3
+      },
+      {
+        "_id": "12281",
+        "name": "Saxophones & Accessories",
+        "parent_id": "12280",
+        "level": 4
+      },
+      {
+        "_id": "12282",
+        "name": "Flutes & Piccolos",
+        "parent_id": "12280",
+        "level": 4
+      },
+      {
+        "_id": "12283",
+        "name": "Clarinet & Oboes & Accessories",
+        "parent_id": "12280",
+        "level": 4
+      },
+      {
+        "_id": "12284",
+        "name": "Tin Whistle",
+        "parent_id": "12280",
+        "level": 4
+      },
+      {
+        "_id": "12285",
+        "name": "Hulusi",
+        "parent_id": "12280",
+        "level": 4
+      },
+      {
+        "_id": "12286",
+        "name": "Ocarina",
+        "parent_id": "12280",
+        "level": 4
+      },
+      {
+        "_id": "12287",
+        "name": "Harmonicas & Accessories",
+        "parent_id": "12280",
+        "level": 4
+      },
+      {
+        "_id": "12288",
+        "name": "Parts & Accessories",
+        "parent_id": "12280",
+        "level": 4
+      },
+      {
+        "_id": "12289",
+        "name": "Brass",
+        "parent_id": "12264",
+        "level": 3
+      },
+      {
+        "_id": "12290",
+        "name": "Trumpet & Accessories",
+        "parent_id": "12289",
+        "level": 4
+      },
+      {
+        "_id": "12292",
+        "name": "Trombone & Accessories",
+        "parent_id": "12289",
+        "level": 4
+      },
+      {
+        "_id": "12293",
+        "name": "French Horn & Accessories",
+        "parent_id": "12289",
+        "level": 4
+      },
+      {
+        "_id": "290984",
+        "name": "Cornet & Accessories",
+        "parent_id": "12289",
+        "level": 4
+      },
+      {
+        "_id": "12294",
+        "name": "Keyboards & Pianos",
+        "parent_id": "12264",
+        "level": 3
+      },
+      {
+        "_id": "12295",
+        "name": "Pianos & Accessories",
+        "parent_id": "12294",
+        "level": 4
+      },
+      {
+        "_id": "12296",
+        "name": "Melodica",
+        "parent_id": "12294",
+        "level": 4
+      },
+      {
+        "_id": "12297",
+        "name": "Accordions & Accessories",
+        "parent_id": "12294",
+        "level": 4
+      },
+      {
+        "_id": "12298",
+        "name": "Electone & Roll Up Piano",
+        "parent_id": "12294",
+        "level": 4
+      },
+      {
+        "_id": "12299",
+        "name": "Parts & Accessories",
+        "parent_id": "12294",
+        "level": 4
+      },
+      {
+        "_id": "12300",
+        "name": "Drums & Percussion",
+        "parent_id": "12264",
+        "level": 3
+      },
+      {
+        "_id": "12301",
+        "name": "Drums & Accessories",
+        "parent_id": "12300",
+        "level": 4
+      },
+      {
+        "_id": "12302",
+        "name": "Tambourines & Accessories",
+        "parent_id": "12300",
+        "level": 4
+      },
+      {
+        "_id": "12303",
+        "name": "Shakers & Maracas",
+        "parent_id": "12300",
+        "level": 4
+      },
+      {
+        "_id": "12305",
+        "name": "Xylophones & Accessories",
+        "parent_id": "12300",
+        "level": 4
+      },
+      {
+        "_id": "12306",
+        "name": "Castanet",
+        "parent_id": "12300",
+        "level": 4
+      },
+      {
+        "_id": "12307",
+        "name": "Other Part & Accessories",
+        "parent_id": "12300",
+        "level": 4
+      },
+      {
+        "_id": "12308",
+        "name": "Pro Audio Equipment",
+        "parent_id": "12264",
+        "level": 3
+      },
+      {
+        "_id": "12309",
+        "name": "Microphones",
+        "parent_id": "12308",
+        "level": 4
+      },
+      {
+        "_id": "12310",
+        "name": "Stands & Holders",
+        "parent_id": "12308",
+        "level": 4
+      },
+      {
+        "_id": "12311",
+        "name": "Amplifier",
+        "parent_id": "12308",
+        "level": 4
+      },
+      {
+        "_id": "12312",
+        "name": "MIDI Device",
+        "parent_id": "12308",
+        "level": 4
+      },
+      {
+        "_id": "12313",
+        "name": "Cables & Interconnects",
+        "parent_id": "12308",
+        "level": 4
+      },
+      {
+        "_id": "12314",
+        "name": "Recorder",
+        "parent_id": "12308",
+        "level": 4
+      },
+      {
+        "_id": "12315",
+        "name": "Vacuum Tube",
+        "parent_id": "12308",
+        "level": 4
+      },
+      {
+        "_id": "12316",
+        "name": "Others",
+        "parent_id": "12264",
+        "level": 3
+      },
+      {
+        "_id": "12317",
+        "name": "Music Box",
+        "parent_id": "12316",
+        "level": 4
+      },
+      {
+        "_id": "12318",
+        "name": "Light",
+        "parent_id": "12316",
+        "level": 4
+      },
+      {
+        "_id": "12319",
+        "name": "Music Stand",
+        "parent_id": "12316",
+        "level": 4
+      },
+      {
+        "_id": "12320",
+        "name": "Practice Pad",
+        "parent_id": "12316",
+        "level": 4
+      },
+      {
+        "_id": "12321",
+        "name": "Musical Toy",
+        "parent_id": "12316",
+        "level": 4
+      },
+      {
+        "_id": "290967",
+        "name": "Strings",
+        "parent_id": "12264",
+        "level": 3
+      },
+      {
+        "_id": "290968",
+        "name": "Guitar & Accessories",
+        "parent_id": "290967",
+        "level": 4
+      },
+      {
+        "_id": "290969",
+        "name": "Ukulele",
+        "parent_id": "290967",
+        "level": 4
+      },
+      {
+        "_id": "290970",
+        "name": "Violin & Accessories",
+        "parent_id": "290967",
+        "level": 4
+      },
+      {
+        "_id": "290971",
+        "name": "Electric Bass",
+        "parent_id": "290967",
+        "level": 4
+      },
+      {
+        "_id": "290972",
+        "name": "Mandolin",
+        "parent_id": "290967",
+        "level": 4
+      },
+      {
+        "_id": "290973",
+        "name": "String",
+        "parent_id": "290967",
+        "level": 4
+      },
+      {
+        "_id": "290974",
+        "name": "Parts & Accessories",
+        "parent_id": "290967",
+        "level": 4
+      },
+      {
+        "_id": "12322",
+        "name": "Smart Device & Safety",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12323",
+        "name": "Security Protection",
+        "parent_id": "12322",
+        "level": 2
+      },
+      {
+        "_id": "12324",
+        "name": "Security Cameras",
+        "parent_id": "12323",
+        "level": 3
+      },
+      {
+        "_id": "12325",
+        "name": "IP Camera & Baby Monitor",
+        "parent_id": "12324",
+        "level": 4
+      },
+      {
+        "_id": "12326",
+        "name": "CCTV Camera",
+        "parent_id": "12324",
+        "level": 4
+      },
+      {
+        "_id": "12327",
+        "name": "Surveillance Camera System",
+        "parent_id": "12324",
+        "level": 4
+      },
+      {
+        "_id": "12328",
+        "name": "Spy Surveillance Camera",
+        "parent_id": "12324",
+        "level": 4
+      },
+      {
+        "_id": "12329",
+        "name": "Other",
+        "parent_id": "12324",
+        "level": 4
+      },
+      {
+        "_id": "12330",
+        "name": "Surveillance Accessories",
+        "parent_id": "12323",
+        "level": 3
+      },
+      {
+        "_id": "12331",
+        "name": "Digital Video Recorders",
+        "parent_id": "12330",
+        "level": 4
+      },
+      {
+        "_id": "12332",
+        "name": "Monitors & Displays",
+        "parent_id": "12330",
+        "level": 4
+      },
+      {
+        "_id": "12333",
+        "name": "Cables, Adapters & Connectors",
+        "parent_id": "12330",
+        "level": 4
+      },
+      {
+        "_id": "12334",
+        "name": "Other Accessories",
+        "parent_id": "12330",
+        "level": 4
+      },
+      {
+        "_id": "12335",
+        "name": "Alarm Systems",
+        "parent_id": "12323",
+        "level": 3
+      },
+      {
+        "_id": "12336",
+        "name": "Burglar Alarm Systems",
+        "parent_id": "12335",
+        "level": 4
+      },
+      {
+        "_id": "12337",
+        "name": "Gas Alarm Systems",
+        "parent_id": "12335",
+        "level": 4
+      },
+      {
+        "_id": "12338",
+        "name": "Infrared Alarm Security System",
+        "parent_id": "12335",
+        "level": 4
+      },
+      {
+        "_id": "12339",
+        "name": "Alarm light",
+        "parent_id": "12335",
+        "level": 4
+      },
+      {
+        "_id": "12340",
+        "name": "Other Alarm Systems & Accessories",
+        "parent_id": "12335",
+        "level": 4
+      },
+      {
+        "_id": "12349",
+        "name": "Personal Protective Equipment",
+        "parent_id": "12323",
+        "level": 3
+      },
+      {
+        "_id": "12350",
+        "name": "GPS Tracker",
+        "parent_id": "12349",
+        "level": 4
+      },
+      {
+        "_id": "12351",
+        "name": "Fire Protective",
+        "parent_id": "12349",
+        "level": 4
+      },
+      {
+        "_id": "12352",
+        "name": "Other",
+        "parent_id": "12349",
+        "level": 4
+      },
+      {
+        "_id": "290986",
+        "name": "Access Control & Intercoms",
+        "parent_id": "12323",
+        "level": 3
+      },
+      {
+        "_id": "290987",
+        "name": "Video Intercom Doorbell",
+        "parent_id": "290986",
+        "level": 4
+      },
+      {
+        "_id": "290988",
+        "name": "Access Control",
+        "parent_id": "290986",
+        "level": 4
+      },
+      {
+        "_id": "290989",
+        "name": "ID Reader",
+        "parent_id": "290986",
+        "level": 4
+      },
+      {
+        "_id": "290990",
+        "name": "Electromagnetic Lock",
+        "parent_id": "290986",
+        "level": 4
+      },
+      {
+        "_id": "290991",
+        "name": "Power Supply",
+        "parent_id": "290986",
+        "level": 4
+      },
+      {
+        "_id": "290992",
+        "name": "Push Button",
+        "parent_id": "290986",
+        "level": 4
+      },
+      {
+        "_id": "290993",
+        "name": "Other",
+        "parent_id": "290986",
+        "level": 4
+      },
+      {
+        "_id": "12353",
+        "name": "Smart Device",
+        "parent_id": "12322",
+        "level": 2
+      },
+      {
+        "_id": "12354",
+        "name": "Smart Home System",
+        "parent_id": "12353",
+        "level": 3
+      },
+      {
+        "_id": "12355",
+        "name": "Smart Home Sockets Switches",
+        "parent_id": "12354",
+        "level": 4
+      },
+      {
+        "_id": "12356",
+        "name": "Smart Home Controller System",
+        "parent_id": "12354",
+        "level": 4
+      },
+      {
+        "_id": "12357",
+        "name": "Smart Home Light",
+        "parent_id": "12354",
+        "level": 4
+      },
+      {
+        "_id": "291060",
+        "name": "Others",
+        "parent_id": "12354",
+        "level": 4
+      },
+      {
+        "_id": "12358",
+        "name": "Smart Home Health",
+        "parent_id": "12353",
+        "level": 3
+      },
+      {
+        "_id": "12359",
+        "name": "Smart Scales",
+        "parent_id": "12358",
+        "level": 4
+      },
+      {
+        "_id": "12360",
+        "name": "Smart Fitness",
+        "parent_id": "12358",
+        "level": 4
+      },
+      {
+        "_id": "12361",
+        "name": "Smart Health Monitor",
+        "parent_id": "12358",
+        "level": 4
+      },
+      {
+        "_id": "12362",
+        "name": "Smart Environment Monitor",
+        "parent_id": "12358",
+        "level": 4
+      },
+      {
+        "_id": "12363",
+        "name": "Smart Door Lock",
+        "parent_id": "12353",
+        "level": 3
+      },
+      {
+        "_id": "12364",
+        "name": "Sports & Outdoor",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12365",
+        "name": "Cycling",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12366",
+        "name": "Bicycle Lights",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12367",
+        "name": "Bike Accessories",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12368",
+        "name": "Bikes",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12369",
+        "name": "Bike Tools",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12370",
+        "name": "Bike Computer",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12371",
+        "name": "Bike Holder",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12372",
+        "name": "Bike Bags",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12373",
+        "name": "Bicycle Helmets",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12374",
+        "name": "Bicycle Glasses",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12375",
+        "name": "Water Bottles",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12376",
+        "name": "Pumps",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12377",
+        "name": "Tire & Tubes",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12378",
+        "name": "Cycling Wear",
+        "parent_id": "12365",
+        "level": 3
+      },
+      {
+        "_id": "12379",
+        "name": "Bike Shoes",
+        "parent_id": "12378",
+        "level": 4
+      },
+      {
+        "_id": "12380",
+        "name": "Head Scarfs & Mask",
+        "parent_id": "12378",
+        "level": 4
+      },
+      {
+        "_id": "12381",
+        "name": "Bicycle Gloves",
+        "parent_id": "12378",
+        "level": 4
+      },
+      {
+        "_id": "12382",
+        "name": "Cycling Clothing",
+        "parent_id": "12378",
+        "level": 4
+      },
+      {
+        "_id": "12383",
+        "name": "Fishing",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12384",
+        "name": "Fishing Rods",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12385",
+        "name": "Fishing Reels",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12386",
+        "name": "Fishing Lines",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12387",
+        "name": "Fishing Lures",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12388",
+        "name": "Fishing Hooks",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12389",
+        "name": "Fishing Floats",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12390",
+        "name": "Fishing Gloves",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12391",
+        "name": "Fishing Boxes & Bags",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12392",
+        "name": "Fishing Wear",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12393",
+        "name": "Tools & Equipment",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12394",
+        "name": "Fishing Accessories",
+        "parent_id": "12383",
+        "level": 3
+      },
+      {
+        "_id": "12395",
+        "name": "Camping & Hiking",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12396",
+        "name": "Lights & Lanterns",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12397",
+        "name": "Outdoor Tools",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12398",
+        "name": "Telescope & Binoculars",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12399",
+        "name": "Hammock & Sleeping Bags",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12400",
+        "name": "Tents",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12401",
+        "name": "Tent Accessories",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12402",
+        "name": "Backpacks",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12403",
+        "name": "Compasses",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12404",
+        "name": "Camping Furniture",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12405",
+        "name": "Camp Kitchen",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12406",
+        "name": "Trekking Poles",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12407",
+        "name": "Hiking Shoes",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12408",
+        "name": "Outdoor Appliances",
+        "parent_id": "12395",
+        "level": 3
+      },
+      {
+        "_id": "12409",
+        "name": "Hunting",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12410",
+        "name": "Sighting Telescope",
+        "parent_id": "12409",
+        "level": 3
+      },
+      {
+        "_id": "12411",
+        "name": "Hunting Cameras",
+        "parent_id": "12409",
+        "level": 3
+      },
+      {
+        "_id": "12412",
+        "name": "Hunting Tools",
+        "parent_id": "12409",
+        "level": 3
+      },
+      {
+        "_id": "12413",
+        "name": "Others",
+        "parent_id": "12409",
+        "level": 3
+      },
+      {
+        "_id": "12414",
+        "name": "Sports & Body Building",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12415",
+        "name": "Wearable Sports Electronics",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12416",
+        "name": "Physical Fitness",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12417",
+        "name": "Yoga",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12418",
+        "name": "Boxing",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12419",
+        "name": "Fitness Bags",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12420",
+        "name": "Fitness Wear",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12421",
+        "name": "Clothing",
+        "parent_id": "12420",
+        "level": 4
+      },
+      {
+        "_id": "12422",
+        "name": "Undergarment",
+        "parent_id": "12420",
+        "level": 4
+      },
+      {
+        "_id": "12423",
+        "name": "Fitness Gloves",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12424",
+        "name": "Sports Protective Gear",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12425",
+        "name": "Others",
+        "parent_id": "12414",
+        "level": 3
+      },
+      {
+        "_id": "12426",
+        "name": "Water Sports",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12427",
+        "name": "Swimming",
+        "parent_id": "12426",
+        "level": 3
+      },
+      {
+        "_id": "12428",
+        "name": "Diving",
+        "parent_id": "12426",
+        "level": 3
+      },
+      {
+        "_id": "12429",
+        "name": "Surfing & Boating",
+        "parent_id": "12426",
+        "level": 3
+      },
+      {
+        "_id": "12430",
+        "name": "Winter Sports",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12432",
+        "name": "Skating Equipment",
+        "parent_id": "12430",
+        "level": 3
+      },
+      {
+        "_id": "12433",
+        "name": "Crampons",
+        "parent_id": "12430",
+        "level": 3
+      },
+      {
+        "_id": "12434",
+        "name": "Winter Clothing",
+        "parent_id": "12430",
+        "level": 3
+      },
+      {
+        "_id": "12435",
+        "name": "Gloves",
+        "parent_id": "12434",
+        "level": 4
+      },
+      {
+        "_id": "12436",
+        "name": "Hats & Scarfs",
+        "parent_id": "12434",
+        "level": 4
+      },
+      {
+        "_id": "12437",
+        "name": "Winter Socks",
+        "parent_id": "12434",
+        "level": 4
+      },
+      {
+        "_id": "12438",
+        "name": "Others",
+        "parent_id": "12430",
+        "level": 3
+      },
+      {
+        "_id": "12439",
+        "name": "Ball Games",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12440",
+        "name": "Tennis & Equipment",
+        "parent_id": "12439",
+        "level": 3
+      },
+      {
+        "_id": "12441",
+        "name": "Badminton & Equipment",
+        "parent_id": "12439",
+        "level": 3
+      },
+      {
+        "_id": "12442",
+        "name": "baseball & Equipment",
+        "parent_id": "12439",
+        "level": 3
+      },
+      {
+        "_id": "12443",
+        "name": "Golf & Equipment",
+        "parent_id": "12439",
+        "level": 3
+      },
+      {
+        "_id": "12444",
+        "name": "Table Tennis & Equipment",
+        "parent_id": "12439",
+        "level": 3
+      },
+      {
+        "_id": "12445",
+        "name": "Volleyball & Equipment",
+        "parent_id": "12439",
+        "level": 3
+      },
+      {
+        "_id": "12446",
+        "name": "Basketball & Equipment",
+        "parent_id": "12439",
+        "level": 3
+      },
+      {
+        "_id": "12447",
+        "name": "Football & Equipment",
+        "parent_id": "12439",
+        "level": 3
+      },
+      {
+        "_id": "12448",
+        "name": "Travel Supplies",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12449",
+        "name": "Luggages",
+        "parent_id": "12448",
+        "level": 3
+      },
+      {
+        "_id": "12450",
+        "name": "Duffel Bags",
+        "parent_id": "12448",
+        "level": 3
+      },
+      {
+        "_id": "12451",
+        "name": "Others Travel Accessories",
+        "parent_id": "12448",
+        "level": 3
+      },
+      {
+        "_id": "12452",
+        "name": "Scooters & Wheels",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "12453",
+        "name": "Others",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "7497",
+        "name": "",
+        "parent_id": "12364",
+        "level": 2
+      },
+      {
+        "_id": "7498",
+        "name": "Adult Product",
+        "parent_id": "7497",
+        "level": 3
+      },
+      {
+        "_id": "7499",
+        "name": "Brand Condoms",
+        "parent_id": "7497",
+        "level": 3
+      },
+      {
+        "_id": "12454",
+        "name": "Apparel & Jewelry",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12455",
+        "name": "Women's Apparel",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "12456",
+        "name": "Dresses",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12457",
+        "name": "Jackets & Coat",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12458",
+        "name": "Swimwear",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12459",
+        "name": "Shirts & Blouses",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12460",
+        "name": "Tops & Vests",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12461",
+        "name": "Jumpsuits & Rompers",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12462",
+        "name": "Bottoms",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12463",
+        "name": "Hosiery & Leggings",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12464",
+        "name": "Sports Clothings",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "13126",
+        "name": "Underwear",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "13127",
+        "name": "Socks & Tights",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "13128",
+        "name": "Skirts",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "13129",
+        "name": "Wedding Dresses",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "13130",
+        "name": "Pants & Shorts",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "13131",
+        "name": "Denim & Jeans",
+        "parent_id": "12455",
+        "level": 3
+      },
+      {
+        "_id": "12465",
+        "name": "Men's Apparel",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13135",
+        "name": "Jeans & Pants",
+        "parent_id": "12465",
+        "level": 3
+      },
+      {
+        "_id": "13136",
+        "name": "Jackets & Coats",
+        "parent_id": "12465",
+        "level": 3
+      },
+      {
+        "_id": "13137",
+        "name": "T-shirts & Polo",
+        "parent_id": "12465",
+        "level": 3
+      },
+      {
+        "_id": "13138",
+        "name": "Underwear",
+        "parent_id": "12465",
+        "level": 3
+      },
+      {
+        "_id": "13139",
+        "name": "Suits & Blazers",
+        "parent_id": "12465",
+        "level": 3
+      },
+      {
+        "_id": "13140",
+        "name": "Socks",
+        "parent_id": "12465",
+        "level": 3
+      },
+      {
+        "_id": "13141",
+        "name": "Swimwear",
+        "parent_id": "12465",
+        "level": 3
+      },
+      {
+        "_id": "12466",
+        "name": "Women's Bags",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "12467",
+        "name": "Shoulder bags",
+        "parent_id": "12466",
+        "level": 3
+      },
+      {
+        "_id": "12468",
+        "name": "Backpacks",
+        "parent_id": "12466",
+        "level": 3
+      },
+      {
+        "_id": "12469",
+        "name": "Wallets",
+        "parent_id": "12466",
+        "level": 3
+      },
+      {
+        "_id": "12470",
+        "name": "Clutches",
+        "parent_id": "12466",
+        "level": 3
+      },
+      {
+        "_id": "12471",
+        "name": "other bags",
+        "parent_id": "12466",
+        "level": 3
+      },
+      {
+        "_id": "12472",
+        "name": "Men's Bags",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "12473",
+        "name": "Bags",
+        "parent_id": "12472",
+        "level": 3
+      },
+      {
+        "_id": "12474",
+        "name": "Women's Shoes",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "12475",
+        "name": "Boots",
+        "parent_id": "12474",
+        "level": 3
+      },
+      {
+        "_id": "12476",
+        "name": "Sneakers",
+        "parent_id": "12474",
+        "level": 3
+      },
+      {
+        "_id": "12477",
+        "name": "Flats",
+        "parent_id": "12474",
+        "level": 3
+      },
+      {
+        "_id": "12478",
+        "name": "Sandals",
+        "parent_id": "12474",
+        "level": 3
+      },
+      {
+        "_id": "12479",
+        "name": "Slippers",
+        "parent_id": "12474",
+        "level": 3
+      },
+      {
+        "_id": "12480",
+        "name": "Heels",
+        "parent_id": "12474",
+        "level": 3
+      },
+      {
+        "_id": "12481",
+        "name": "Watches",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "12482",
+        "name": "Quartz Watches",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "12483",
+        "name": "Sports watch",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "12484",
+        "name": "Vintage Watches",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "12485",
+        "name": "Watch Accessories",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "13211",
+        "name": "Fashion watches",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "13212",
+        "name": "Children's Watches",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "13213",
+        "name": "Business Watches",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "13214",
+        "name": "LED Watches",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "13215",
+        "name": "Mechanical Watch",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "13216",
+        "name": "Pocket watches",
+        "parent_id": "12481",
+        "level": 3
+      },
+      {
+        "_id": "12486",
+        "name": "Accessories",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "12487",
+        "name": "Hats & Caps",
+        "parent_id": "12486",
+        "level": 3
+      },
+      {
+        "_id": "12488",
+        "name": "Scarves & gloves",
+        "parent_id": "12486",
+        "level": 3
+      },
+      {
+        "_id": "12489",
+        "name": "Sunglasses",
+        "parent_id": "12486",
+        "level": 3
+      },
+      {
+        "_id": "12490",
+        "name": "Belts",
+        "parent_id": "12486",
+        "level": 3
+      },
+      {
+        "_id": "12491",
+        "name": "Others",
+        "parent_id": "12486",
+        "level": 3
+      },
+      {
+        "_id": "12492",
+        "name": "Fashion Jewelry",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "12493",
+        "name": "Necklaces & Pendants",
+        "parent_id": "12492",
+        "level": 3
+      },
+      {
+        "_id": "12494",
+        "name": "Bracelets & Anklets",
+        "parent_id": "12492",
+        "level": 3
+      },
+      {
+        "_id": "12495",
+        "name": "Earrings",
+        "parent_id": "12492",
+        "level": 3
+      },
+      {
+        "_id": "12496",
+        "name": "Rings",
+        "parent_id": "12492",
+        "level": 3
+      },
+      {
+        "_id": "12497",
+        "name": "Hair Jewelry",
+        "parent_id": "12492",
+        "level": 3
+      },
+      {
+        "_id": "12498",
+        "name": "Others",
+        "parent_id": "12492",
+        "level": 3
+      },
+      {
+        "_id": "13132",
+        "name": "Sexy Lingerie",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13133",
+        "name": "Women's Lingerie",
+        "parent_id": "13132",
+        "level": 3
+      },
+      {
+        "_id": "13134",
+        "name": "Men's Lingerie",
+        "parent_id": "13132",
+        "level": 3
+      },
+      {
+        "_id": "13142",
+        "name": "Festival Costumes",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13143",
+        "name": "Halloween Costumes",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13144",
+        "name": "Lolita Fashion",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13145",
+        "name": "Baby Boys Clothing",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13147",
+        "name": "Bodysuits & One-Pieces",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13148",
+        "name": "Accessories",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13149",
+        "name": "Socks & Leg Warmers",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13150",
+        "name": "Pants",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13151",
+        "name": "Sleepwear & Robes",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13152",
+        "name": "Hoodies & Sweatshirts",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13153",
+        "name": "Outerwear & Coats",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13154",
+        "name": "Underwear & Diaper Covers",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13155",
+        "name": "Shorts",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13156",
+        "name": "Sweaters",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13157",
+        "name": "Tops",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13158",
+        "name": "Swimwear",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "291003",
+        "name": "Boys",
+        "parent_id": "13145",
+        "level": 3
+      },
+      {
+        "_id": "13159",
+        "name": "Baby Girls Clothing",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13161",
+        "name": "Bodysuits & One-Pieces",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13162",
+        "name": "Accessories",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13163",
+        "name": "Dresses",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13164",
+        "name": "Socks & Tights",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13165",
+        "name": "Pants",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13166",
+        "name": "Outerwear & Coats",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13167",
+        "name": "Sleepwear & Robes",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13168",
+        "name": "Shorts",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13169",
+        "name": "Underwear,Diaper Covers & Bloomers",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13170",
+        "name": "Skirts",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13171",
+        "name": "Hoodies & Sweatshirts",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13172",
+        "name": "Swimwear",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13173",
+        "name": "Sweaters",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13174",
+        "name": "Tops",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "291004",
+        "name": "Clothing Sets",
+        "parent_id": "13159",
+        "level": 3
+      },
+      {
+        "_id": "13175",
+        "name": "Girls Clothing",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13176",
+        "name": "Dresses",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13178",
+        "name": "Accessories",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13179",
+        "name": "Outerwear & Coats",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13180",
+        "name": "Tops & Tees",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13181",
+        "name": "Pants",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13182",
+        "name": "Skirts",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13183",
+        "name": "Hoodies & Sweatshirts",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13184",
+        "name": "Blouses & Shirts",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13185",
+        "name": "Swimwear",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13186",
+        "name": "Sweaters",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13187",
+        "name": "Jeans",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13188",
+        "name": "Socks, Tights & Leggings",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13189",
+        "name": "Sleepwear & Robes",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13190",
+        "name": "Underwear",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13191",
+        "name": "Shorts",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13192",
+        "name": "Overalls",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "291005",
+        "name": "Clothing Sets",
+        "parent_id": "13175",
+        "level": 3
+      },
+      {
+        "_id": "13193",
+        "name": "Boys Clothing",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "13195",
+        "name": "Accessories",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13196",
+        "name": "Outerwear & Coats",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13197",
+        "name": "Tops & Tees",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13198",
+        "name": "Pants",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13199",
+        "name": "Leg Warmers",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13200",
+        "name": "Hoodies & Sweatshirts",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13201",
+        "name": "Blouses & Shirts",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13202",
+        "name": "Swimwear",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13203",
+        "name": "Sweaters",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13204",
+        "name": "Jeans",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13205",
+        "name": "Suits & Blazers",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13206",
+        "name": "Socks",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13207",
+        "name": "Sleepwear & Robes",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13208",
+        "name": "Underwear",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13209",
+        "name": "Shorts",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "13210",
+        "name": "Overalls",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "291006",
+        "name": "Clothing Sets",
+        "parent_id": "13193",
+        "level": 3
+      },
+      {
+        "_id": "290996",
+        "name": "Sportswear",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "290997",
+        "name": "Women's Sportswear",
+        "parent_id": "290996",
+        "level": 3
+      },
+      {
+        "_id": "290998",
+        "name": "Sports Suit",
+        "parent_id": "290997",
+        "level": 4
+      },
+      {
+        "_id": "290999",
+        "name": "Sweatpants",
+        "parent_id": "290997",
+        "level": 4
+      },
+      {
+        "_id": "291000",
+        "name": "Swimsuit",
+        "parent_id": "290997",
+        "level": 4
+      },
+      {
+        "_id": "291001",
+        "name": "Men's Shoes",
+        "parent_id": "12454",
+        "level": 2
+      },
+      {
+        "_id": "291002",
+        "name": "Leather Shoes",
+        "parent_id": "291001",
+        "level": 3
+      },
+      {
+        "_id": "12499",
+        "name": "Computer & Stationery",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12500",
+        "name": "Tablet PC & Accessories",
+        "parent_id": "12499",
+        "level": 2
+      },
+      {
+        "_id": "12501",
+        "name": "Tablet PC",
+        "parent_id": "12500",
+        "level": 3
+      },
+      {
+        "_id": "12502",
+        "name": "Tablet PC Accessories",
+        "parent_id": "12500",
+        "level": 3
+      },
+      {
+        "_id": "12503",
+        "name": "Laptop & Accessories",
+        "parent_id": "12499",
+        "level": 2
+      },
+      {
+        "_id": "12504",
+        "name": "Laptop",
+        "parent_id": "12503",
+        "level": 3
+      },
+      {
+        "_id": "12505",
+        "name": "Laptop Accessories",
+        "parent_id": "12503",
+        "level": 3
+      },
+      {
+        "_id": "12506",
+        "name": "Networking",
+        "parent_id": "12499",
+        "level": 2
+      },
+      {
+        "_id": "12507",
+        "name": "Routers",
+        "parent_id": "12506",
+        "level": 3
+      },
+      {
+        "_id": "12508",
+        "name": "Repeaters",
+        "parent_id": "12506",
+        "level": 3
+      },
+      {
+        "_id": "12509",
+        "name": "Others",
+        "parent_id": "12506",
+        "level": 3
+      },
+      {
+        "_id": "12510",
+        "name": "Computer Peripherals",
+        "parent_id": "12499",
+        "level": 2
+      },
+      {
+        "_id": "12511",
+        "name": "Keyboards & Mouse",
+        "parent_id": "12510",
+        "level": 3
+      },
+      {
+        "_id": "12512",
+        "name": "Earphone & Microphone",
+        "parent_id": "12510",
+        "level": 3
+      },
+      {
+        "_id": "12513",
+        "name": "USB Hubs",
+        "parent_id": "12510",
+        "level": 3
+      },
+      {
+        "_id": "12514",
+        "name": "Speakers",
+        "parent_id": "12510",
+        "level": 3
+      },
+      {
+        "_id": "12515",
+        "name": "Others",
+        "parent_id": "12510",
+        "level": 3
+      },
+      {
+        "_id": "12516",
+        "name": "Drives & Storage",
+        "parent_id": "12499",
+        "level": 2
+      },
+      {
+        "_id": "12517",
+        "name": "USB Flash Drives",
+        "parent_id": "12516",
+        "level": 3
+      },
+      {
+        "_id": "12518",
+        "name": "Solid State Drives",
+        "parent_id": "12516",
+        "level": 3
+      },
+      {
+        "_id": "12519",
+        "name": "Hard Drives",
+        "parent_id": "12516",
+        "level": 3
+      },
+      {
+        "_id": "12520",
+        "name": "Hard Drives Accessories",
+        "parent_id": "12516",
+        "level": 3
+      },
+      {
+        "_id": "12521",
+        "name": "Card Readers",
+        "parent_id": "12516",
+        "level": 3
+      },
+      {
+        "_id": "12522",
+        "name": "SD cards",
+        "parent_id": "12516",
+        "level": 3
+      },
+      {
+        "_id": "12523",
+        "name": "Others",
+        "parent_id": "12516",
+        "level": 3
+      },
+      {
+        "_id": "12524",
+        "name": "Computer Components",
+        "parent_id": "12499",
+        "level": 2
+      },
+      {
+        "_id": "12525",
+        "name": "Graphics Cards",
+        "parent_id": "12524",
+        "level": 3
+      },
+      {
+        "_id": "12526",
+        "name": "Mainboards",
+        "parent_id": "12524",
+        "level": 3
+      },
+      {
+        "_id": "12527",
+        "name": "Memory",
+        "parent_id": "12524",
+        "level": 3
+      },
+      {
+        "_id": "12528",
+        "name": "Power & Case",
+        "parent_id": "12524",
+        "level": 3
+      },
+      {
+        "_id": "12529",
+        "name": "CPU Cooling Fans",
+        "parent_id": "12524",
+        "level": 3
+      },
+      {
+        "_id": "12530",
+        "name": "PCI",
+        "parent_id": "12524",
+        "level": 3
+      },
+      {
+        "_id": "12531",
+        "name": "Others Components",
+        "parent_id": "12524",
+        "level": 3
+      },
+      {
+        "_id": "12532",
+        "name": "Stationery Supplies",
+        "parent_id": "12499",
+        "level": 2
+      },
+      {
+        "_id": "12533",
+        "name": "Basic Office",
+        "parent_id": "12532",
+        "level": 3
+      },
+      {
+        "_id": "12534",
+        "name": "Painting Supplies",
+        "parent_id": "12532",
+        "level": 3
+      },
+      {
+        "_id": "12535",
+        "name": "Office Electronics",
+        "parent_id": "12532",
+        "level": 3
+      },
+      {
+        "_id": "12536",
+        "name": "Printers & Copiers Accessories",
+        "parent_id": "12532",
+        "level": 3
+      },
+      {
+        "_id": "12538",
+        "name": "Packing & Shipping Supplies",
+        "parent_id": "12532",
+        "level": 3
+      },
+      {
+        "_id": "12539",
+        "name": "Others Stationery",
+        "parent_id": "12532",
+        "level": 3
+      },
+      {
+        "_id": "12540",
+        "name": "Video & Audio",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12541",
+        "name": "TV BOX & TV Dongle",
+        "parent_id": "12540",
+        "level": 2
+      },
+      {
+        "_id": "12542",
+        "name": "Android TV Boxes & Accessories",
+        "parent_id": "12541",
+        "level": 3
+      },
+      {
+        "_id": "12543",
+        "name": "Android TV Dongle & Accessories",
+        "parent_id": "12541",
+        "level": 3
+      },
+      {
+        "_id": "12544",
+        "name": "Windows TV Dongle & Accessories",
+        "parent_id": "12541",
+        "level": 3
+      },
+      {
+        "_id": "12545",
+        "name": "Projectors",
+        "parent_id": "12540",
+        "level": 2
+      },
+      {
+        "_id": "12546",
+        "name": "LCD Projectors",
+        "parent_id": "12545",
+        "level": 3
+      },
+      {
+        "_id": "12547",
+        "name": "DLP Projectors",
+        "parent_id": "12545",
+        "level": 3
+      },
+      {
+        "_id": "12548",
+        "name": "Projector Screen & Holder Accessories",
+        "parent_id": "12545",
+        "level": 3
+      },
+      {
+        "_id": "12549",
+        "name": "Other Consumer Electronics",
+        "parent_id": "12540",
+        "level": 2
+      },
+      {
+        "_id": "12550",
+        "name": "Receiver",
+        "parent_id": "12549",
+        "level": 3
+      },
+      {
+        "_id": "12551",
+        "name": "Bluetooth Receiver",
+        "parent_id": "12550",
+        "level": 4
+      },
+      {
+        "_id": "12552",
+        "name": "WiFi Audio Receiver",
+        "parent_id": "12550",
+        "level": 4
+      },
+      {
+        "_id": "12553",
+        "name": "TV Receiver",
+        "parent_id": "12550",
+        "level": 4
+      },
+      {
+        "_id": "12554",
+        "name": "Transmitter",
+        "parent_id": "12549",
+        "level": 3
+      },
+      {
+        "_id": "12555",
+        "name": "Bluetooth Transmitter",
+        "parent_id": "12554",
+        "level": 4
+      },
+      {
+        "_id": "12556",
+        "name": "FM Transmitter",
+        "parent_id": "12554",
+        "level": 4
+      },
+      {
+        "_id": "12557",
+        "name": "TV Accessories",
+        "parent_id": "12549",
+        "level": 3
+      },
+      {
+        "_id": "12558",
+        "name": "Chargers & Adapters",
+        "parent_id": "12549",
+        "level": 3
+      },
+      {
+        "_id": "12559",
+        "name": "Others",
+        "parent_id": "12549",
+        "level": 3
+      },
+      {
+        "_id": "12560",
+        "name": "Headphone",
+        "parent_id": "12540",
+        "level": 2
+      },
+      {
+        "_id": "12561",
+        "name": "Bluetooth Headphone",
+        "parent_id": "12560",
+        "level": 3
+      },
+      {
+        "_id": "12562",
+        "name": "Over-ear Bluetooth Headphone",
+        "parent_id": "12561",
+        "level": 4
+      },
+      {
+        "_id": "12563",
+        "name": "In-ear Bluetooth Headphone",
+        "parent_id": "12561",
+        "level": 4
+      },
+      {
+        "_id": "12564",
+        "name": "Game Headphone",
+        "parent_id": "12560",
+        "level": 3
+      },
+      {
+        "_id": "12565",
+        "name": "Wired Headphone",
+        "parent_id": "12560",
+        "level": 3
+      },
+      {
+        "_id": "12566",
+        "name": "HiFi Headphone",
+        "parent_id": "12560",
+        "level": 3
+      },
+      {
+        "_id": "12567",
+        "name": "Headphone Accessories",
+        "parent_id": "12560",
+        "level": 3
+      },
+      {
+        "_id": "12568",
+        "name": "Speaker & Karaoke",
+        "parent_id": "12540",
+        "level": 2
+      },
+      {
+        "_id": "12569",
+        "name": "Bluetooth Speaker",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12570",
+        "name": "Home Speaker",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12571",
+        "name": "WiFi Speaker",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12572",
+        "name": "Power Amplifier & Accessories",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12573",
+        "name": "Karaoke Player",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12574",
+        "name": "Conference Microphone",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12575",
+        "name": "Intercom",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12576",
+        "name": "Voice Changer",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12577",
+        "name": "Speakers & Karaoke Accessories",
+        "parent_id": "12568",
+        "level": 3
+      },
+      {
+        "_id": "12578",
+        "name": "Virtual Reality",
+        "parent_id": "12540",
+        "level": 2
+      },
+      {
+        "_id": "12579",
+        "name": "VR All-in-one Machine",
+        "parent_id": "12578",
+        "level": 3
+      },
+      {
+        "_id": "12580",
+        "name": "PC Headset",
+        "parent_id": "12578",
+        "level": 3
+      },
+      {
+        "_id": "12581",
+        "name": "3D VR Headset",
+        "parent_id": "12578",
+        "level": 3
+      },
+      {
+        "_id": "12582",
+        "name": "3D Glasses",
+        "parent_id": "12578",
+        "level": 3
+      },
+      {
+        "_id": "12583",
+        "name": "Smart Video Glasses",
+        "parent_id": "12578",
+        "level": 3
+      },
+      {
+        "_id": "12584",
+        "name": "DIY Cardboard",
+        "parent_id": "12578",
+        "level": 3
+      },
+      {
+        "_id": "12585",
+        "name": "VR Accessories",
+        "parent_id": "12578",
+        "level": 3
+      },
+      {
+        "_id": "12586",
+        "name": "Audio & Video Player Accessories",
+        "parent_id": "12540",
+        "level": 2
+      },
+      {
+        "_id": "12588",
+        "name": "Audio Cables & Connectors",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12589",
+        "name": "Video Splitters & Switchers",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12590",
+        "name": "Type-C Cables & Adapters",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12591",
+        "name": "HDMI Cables & Adapters",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12592",
+        "name": "Toslink & Optical Cables & Adapters",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12593",
+        "name": "VGA Cables & Adapters",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12594",
+        "name": "DVI Cables & Adapters",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12595",
+        "name": "AV Cables & Adapters",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12596",
+        "name": "DP Connectors & Adapters",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12597",
+        "name": "Video Capture",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12598",
+        "name": "High-definition & Blu-ray Video Players",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12599",
+        "name": "HiFi Music Player",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12600",
+        "name": "MP3 & MP4 & MP5 Player",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12601",
+        "name": "Video Monitor & Displayer",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12602",
+        "name": "VCD & DVD & EVD Player",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12603",
+        "name": "High-definition & Blu-ray Player",
+        "parent_id": "12586",
+        "level": 3
+      },
+      {
+        "_id": "12604",
+        "name": "Monitor & Displayer",
+        "parent_id": "12540",
+        "level": 2
+      },
+      {
+        "_id": "12605",
+        "name": "Home & Garden",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12606",
+        "name": "Medical treatments",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12607",
+        "name": "Medical Equipment",
+        "parent_id": "12606",
+        "level": 3
+      },
+      {
+        "_id": "12608",
+        "name": "Defibrillator",
+        "parent_id": "12607",
+        "level": 4
+      },
+      {
+        "_id": "12609",
+        "name": "Monitor",
+        "parent_id": "12607",
+        "level": 4
+      },
+      {
+        "_id": "12610",
+        "name": "ECG & system",
+        "parent_id": "12607",
+        "level": 4
+      },
+      {
+        "_id": "12611",
+        "name": "Ultrasonic",
+        "parent_id": "12607",
+        "level": 4
+      },
+      {
+        "_id": "12612",
+        "name": "Oxygenerator",
+        "parent_id": "12607",
+        "level": 4
+      },
+      {
+        "_id": "12613",
+        "name": "Measuring instruments & Accessories",
+        "parent_id": "12606",
+        "level": 3
+      },
+      {
+        "_id": "12614",
+        "name": "sphygmomanometer",
+        "parent_id": "12613",
+        "level": 4
+      },
+      {
+        "_id": "12615",
+        "name": "Oximeter",
+        "parent_id": "12613",
+        "level": 4
+      },
+      {
+        "_id": "12616",
+        "name": "Glucometer & Cardiochek",
+        "parent_id": "12613",
+        "level": 4
+      },
+      {
+        "_id": "12617",
+        "name": "cardiotachometer",
+        "parent_id": "12613",
+        "level": 4
+      },
+      {
+        "_id": "12618",
+        "name": "Baby Sound B",
+        "parent_id": "12613",
+        "level": 4
+      },
+      {
+        "_id": "12619",
+        "name": "Stethoscope",
+        "parent_id": "12613",
+        "level": 4
+      },
+      {
+        "_id": "12620",
+        "name": "Percussion Hammer",
+        "parent_id": "12613",
+        "level": 4
+      },
+      {
+        "_id": "12621",
+        "name": "Thermometer",
+        "parent_id": "12613",
+        "level": 4
+      },
+      {
+        "_id": "12622",
+        "name": "Massage Treatments",
+        "parent_id": "12606",
+        "level": 3
+      },
+      {
+        "_id": "12623",
+        "name": "Rehabilitation Aids",
+        "parent_id": "12606",
+        "level": 3
+      },
+      {
+        "_id": "12624",
+        "name": "Walking aids & Accessories",
+        "parent_id": "12623",
+        "level": 4
+      },
+      {
+        "_id": "12625",
+        "name": "Wheelchairs & accessories",
+        "parent_id": "12623",
+        "level": 4
+      },
+      {
+        "_id": "12626",
+        "name": "Crutches",
+        "parent_id": "12623",
+        "level": 4
+      },
+      {
+        "_id": "12627",
+        "name": "Bathroom Safety",
+        "parent_id": "12623",
+        "level": 4
+      },
+      {
+        "_id": "12628",
+        "name": "Rehabilitation Articles",
+        "parent_id": "12623",
+        "level": 4
+      },
+      {
+        "_id": "12629",
+        "name": "Physical Therapy Equipments",
+        "parent_id": "12623",
+        "level": 4
+      },
+      {
+        "_id": "12630",
+        "name": "Hearing-aid",
+        "parent_id": "12623",
+        "level": 4
+      },
+      {
+        "_id": "12631",
+        "name": "Walking Cart",
+        "parent_id": "12623",
+        "level": 4
+      },
+      {
+        "_id": "12632",
+        "name": "Surgical Instruments",
+        "parent_id": "12606",
+        "level": 3
+      },
+      {
+        "_id": "12633",
+        "name": "Medical Utensils",
+        "parent_id": "12632",
+        "level": 4
+      },
+      {
+        "_id": "12634",
+        "name": "Scalpel",
+        "parent_id": "12632",
+        "level": 4
+      },
+      {
+        "_id": "12635",
+        "name": "Surgical Instruments",
+        "parent_id": "12632",
+        "level": 4
+      },
+      {
+        "_id": "12636",
+        "name": "Medical Supplies",
+        "parent_id": "12606",
+        "level": 3
+      },
+      {
+        "_id": "12637",
+        "name": "Disposable Supplies",
+        "parent_id": "12636",
+        "level": 4
+      },
+      {
+        "_id": "12638",
+        "name": "Trauma Supplies",
+        "parent_id": "12636",
+        "level": 4
+      },
+      {
+        "_id": "12639",
+        "name": "Detection Supplies",
+        "parent_id": "12636",
+        "level": 4
+      },
+      {
+        "_id": "12640",
+        "name": "Syringe",
+        "parent_id": "12636",
+        "level": 4
+      },
+      {
+        "_id": "12642",
+        "name": "Medical Treatment",
+        "parent_id": "12636",
+        "level": 4
+      },
+      {
+        "_id": "8106",
+        "name": "",
+        "parent_id": "12636",
+        "level": 4
+      },
+      {
+        "_id": "12643",
+        "name": "First Aid",
+        "parent_id": "12606",
+        "level": 3
+      },
+      {
+        "_id": "12644",
+        "name": "Medical Carts & Others",
+        "parent_id": "12643",
+        "level": 4
+      },
+      {
+        "_id": "12645",
+        "name": "Surgical Clothing & Protection",
+        "parent_id": "12643",
+        "level": 4
+      },
+      {
+        "_id": "12646",
+        "name": "Veterinary Supplies",
+        "parent_id": "12643",
+        "level": 4
+      },
+      {
+        "_id": "8113",
+        "name": "",
+        "parent_id": "12606",
+        "level": 3
+      },
+      {
+        "_id": "12719",
+        "name": "Home Electric Appliances",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12720",
+        "name": "Air Quality Improvement",
+        "parent_id": "12719",
+        "level": 3
+      },
+      {
+        "_id": "12721",
+        "name": "Air Purifier",
+        "parent_id": "12720",
+        "level": 4
+      },
+      {
+        "_id": "12722",
+        "name": "Humidifier",
+        "parent_id": "12720",
+        "level": 4
+      },
+      {
+        "_id": "12723",
+        "name": "Dehumidifier",
+        "parent_id": "12720",
+        "level": 4
+      },
+      {
+        "_id": "12728",
+        "name": "Garment Care",
+        "parent_id": "12719",
+        "level": 3
+      },
+      {
+        "_id": "12729",
+        "name": "Garment Steamer",
+        "parent_id": "12728",
+        "level": 4
+      },
+      {
+        "_id": "12730",
+        "name": "Sewing Machine",
+        "parent_id": "12728",
+        "level": 4
+      },
+      {
+        "_id": "12731",
+        "name": "Electric Cleanning Equipment",
+        "parent_id": "12719",
+        "level": 3
+      },
+      {
+        "_id": "12732",
+        "name": "Steam Cleaner",
+        "parent_id": "12731",
+        "level": 4
+      },
+      {
+        "_id": "12733",
+        "name": "Vacuum Cleaner",
+        "parent_id": "12731",
+        "level": 4
+      },
+      {
+        "_id": "12734",
+        "name": "Electric Scrubber",
+        "parent_id": "12731",
+        "level": 4
+      },
+      {
+        "_id": "12735",
+        "name": "Other Electric Appliances",
+        "parent_id": "12719",
+        "level": 3
+      },
+      {
+        "_id": "12736",
+        "name": "Forecast Clock & Calendar",
+        "parent_id": "12735",
+        "level": 4
+      },
+      {
+        "_id": "12738",
+        "name": "Socket & Plugs",
+        "parent_id": "12735",
+        "level": 4
+      },
+      {
+        "_id": "291025",
+        "name": "Infrared Remote Control",
+        "parent_id": "12735",
+        "level": 4
+      },
+      {
+        "_id": "291021",
+        "name": "Tempreture Control",
+        "parent_id": "12719",
+        "level": 3
+      },
+      {
+        "_id": "291022",
+        "name": "Air Conditioning & Fan",
+        "parent_id": "291021",
+        "level": 4
+      },
+      {
+        "_id": "291023",
+        "name": "Refrigerator",
+        "parent_id": "291021",
+        "level": 4
+      },
+      {
+        "_id": "291024",
+        "name": "Heating Thermostat",
+        "parent_id": "291021",
+        "level": 4
+      },
+      {
+        "_id": "12739",
+        "name": "Kitchen,Dining & Bar",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12740",
+        "name": "Bakeware & Accessories",
+        "parent_id": "12739",
+        "level": 3
+      },
+      {
+        "_id": "12741",
+        "name": "Pastry Moulds",
+        "parent_id": "12740",
+        "level": 4
+      },
+      {
+        "_id": "12743",
+        "name": "Baking Mat",
+        "parent_id": "12740",
+        "level": 4
+      },
+      {
+        "_id": "12744",
+        "name": "Bread Clamp Tongs",
+        "parent_id": "12740",
+        "level": 4
+      },
+      {
+        "_id": "12745",
+        "name": "Baking Pans & Dishes",
+        "parent_id": "12740",
+        "level": 4
+      },
+      {
+        "_id": "12746",
+        "name": "Oven Thermometer",
+        "parent_id": "12740",
+        "level": 4
+      },
+      {
+        "_id": "12747",
+        "name": "Oven Glove",
+        "parent_id": "12740",
+        "level": 4
+      },
+      {
+        "_id": "12748",
+        "name": "Other Bakeware Tools",
+        "parent_id": "12740",
+        "level": 4
+      },
+      {
+        "_id": "291026",
+        "name": "Cake Knife & Carving Tools",
+        "parent_id": "12740",
+        "level": 4
+      },
+      {
+        "_id": "12749",
+        "name": "Barbecue Supplies",
+        "parent_id": "12739",
+        "level": 3
+      },
+      {
+        "_id": "12750",
+        "name": "BBQ Grill Broiler",
+        "parent_id": "12749",
+        "level": 4
+      },
+      {
+        "_id": "12751",
+        "name": "BBQ Grill Mat",
+        "parent_id": "12749",
+        "level": 4
+      },
+      {
+        "_id": "12752",
+        "name": "BBQ Stainless Steel",
+        "parent_id": "12749",
+        "level": 4
+      },
+      {
+        "_id": "12753",
+        "name": "BBQ Grill Protector",
+        "parent_id": "12749",
+        "level": 4
+      },
+      {
+        "_id": "12754",
+        "name": "BBQ Thermometer",
+        "parent_id": "12749",
+        "level": 4
+      },
+      {
+        "_id": "12755",
+        "name": "Other BBQ Tools",
+        "parent_id": "12749",
+        "level": 4
+      },
+      {
+        "_id": "12756",
+        "name": "Bar Tools & Accessories",
+        "parent_id": "12739",
+        "level": 3
+      },
+      {
+        "_id": "12757",
+        "name": "Ice Stones Cooler & Ice Bucket, Ice Tray",
+        "parent_id": "12756",
+        "level": 4
+      },
+      {
+        "_id": "12758",
+        "name": "Wine Bottle Opener",
+        "parent_id": "12756",
+        "level": 4
+      },
+      {
+        "_id": "12759",
+        "name": "Cocktail Shaker Mixer",
+        "parent_id": "12756",
+        "level": 4
+      },
+      {
+        "_id": "12760",
+        "name": "Wine Aerator",
+        "parent_id": "12756",
+        "level": 4
+      },
+      {
+        "_id": "12762",
+        "name": "Other Bar Tools & Accessories",
+        "parent_id": "12756",
+        "level": 4
+      },
+      {
+        "_id": "291027",
+        "name": "Bear Cups & Accessories",
+        "parent_id": "12756",
+        "level": 4
+      },
+      {
+        "_id": "12763",
+        "name": "Drinkware & Tea Sets",
+        "parent_id": "12739",
+        "level": 3
+      },
+      {
+        "_id": "12765",
+        "name": "Coffee & Tea Making Tools",
+        "parent_id": "12763",
+        "level": 4
+      },
+      {
+        "_id": "291028",
+        "name": "Milk Frother Cup",
+        "parent_id": "12763",
+        "level": 4
+      },
+      {
+        "_id": "12766",
+        "name": "Cooking Tools & Gadgets",
+        "parent_id": "12739",
+        "level": 3
+      },
+      {
+        "_id": "12767",
+        "name": "Chopper,Slicer & Peeler",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12768",
+        "name": "Mill Shaker Grinder",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12769",
+        "name": "Juice Presser Squeeze",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12770",
+        "name": "Scale, Timer & Measuring Tool",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12771",
+        "name": "Cooking Thermometer",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12772",
+        "name": "Heat Resistant Mat",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12773",
+        "name": "Egg Beater Mixer",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12774",
+        "name": "Cooking Tool Set",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12775",
+        "name": "Kitchen Organization & Container",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12776",
+        "name": "Kitchen Cleaning Supplies",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12777",
+        "name": "Kitchen Sink Faucet",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12778",
+        "name": "Gas Burner",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12779",
+        "name": "Cooker Hood",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12780",
+        "name": "Other Cooking Tools",
+        "parent_id": "12766",
+        "level": 4
+      },
+      {
+        "_id": "12781",
+        "name": "Kitchen Knife & Sharpener",
+        "parent_id": "12739",
+        "level": 3
+      },
+      {
+        "_id": "12782",
+        "name": "Knifes",
+        "parent_id": "12781",
+        "level": 4
+      },
+      {
+        "_id": "12783",
+        "name": "Knife Sharpener",
+        "parent_id": "12781",
+        "level": 4
+      },
+      {
+        "_id": "12784",
+        "name": "Dinnerware & Flatware",
+        "parent_id": "12739",
+        "level": 3
+      },
+      {
+        "_id": "12785",
+        "name": "Lunch Boxes & Bags",
+        "parent_id": "12784",
+        "level": 4
+      },
+      {
+        "_id": "12786",
+        "name": "Bowls & Dishes",
+        "parent_id": "12784",
+        "level": 4
+      },
+      {
+        "_id": "12787",
+        "name": "Dinnerware Sets",
+        "parent_id": "12784",
+        "level": 4
+      },
+      {
+        "_id": "12788",
+        "name": "Table Decoration",
+        "parent_id": "12784",
+        "level": 4
+      },
+      {
+        "_id": "12789",
+        "name": "Home Decor",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12790",
+        "name": "Wall Decoration",
+        "parent_id": "12789",
+        "level": 3
+      },
+      {
+        "_id": "12791",
+        "name": "Wall Stickers",
+        "parent_id": "12790",
+        "level": 4
+      },
+      {
+        "_id": "12792",
+        "name": "Diamond Painting",
+        "parent_id": "12790",
+        "level": 4
+      },
+      {
+        "_id": "12793",
+        "name": "Oil Painting",
+        "parent_id": "12790",
+        "level": 4
+      },
+      {
+        "_id": "12794",
+        "name": "3D Engraving Picture",
+        "parent_id": "12790",
+        "level": 4
+      },
+      {
+        "_id": "12795",
+        "name": "DIY Cross Stitch Set",
+        "parent_id": "12790",
+        "level": 4
+      },
+      {
+        "_id": "12796",
+        "name": "Wall Clock Sticker",
+        "parent_id": "12790",
+        "level": 4
+      },
+      {
+        "_id": "12797",
+        "name": "Window Decoration",
+        "parent_id": "12789",
+        "level": 3
+      },
+      {
+        "_id": "12798",
+        "name": "Window Film Stickers",
+        "parent_id": "12797",
+        "level": 4
+      },
+      {
+        "_id": "12799",
+        "name": "Sunscreen Tint Membrane",
+        "parent_id": "12797",
+        "level": 4
+      },
+      {
+        "_id": "12800",
+        "name": "Table Decoration",
+        "parent_id": "12789",
+        "level": 3
+      },
+      {
+        "_id": "12801",
+        "name": "Artificial Flowers & Vase",
+        "parent_id": "12800",
+        "level": 4
+      },
+      {
+        "_id": "12802",
+        "name": "Photo Frames",
+        "parent_id": "12800",
+        "level": 4
+      },
+      {
+        "_id": "12803",
+        "name": "Desktop Artistic Gadgets",
+        "parent_id": "12800",
+        "level": 4
+      },
+      {
+        "_id": "12804",
+        "name": "Creative Crafts",
+        "parent_id": "12789",
+        "level": 3
+      },
+      {
+        "_id": "12805",
+        "name": "Metallic Crafts",
+        "parent_id": "12804",
+        "level": 4
+      },
+      {
+        "_id": "12806",
+        "name": "Fiberglass Crafts",
+        "parent_id": "12804",
+        "level": 4
+      },
+      {
+        "_id": "12807",
+        "name": "Glass Crafts",
+        "parent_id": "12804",
+        "level": 4
+      },
+      {
+        "_id": "12808",
+        "name": "Ceramics Crafts",
+        "parent_id": "12804",
+        "level": 4
+      },
+      {
+        "_id": "12809",
+        "name": "Wooden Crafts",
+        "parent_id": "12804",
+        "level": 4
+      },
+      {
+        "_id": "12810",
+        "name": "Fiber Crafts",
+        "parent_id": "12804",
+        "level": 4
+      },
+      {
+        "_id": "12811",
+        "name": "3D Printed Crafts",
+        "parent_id": "12804",
+        "level": 4
+      },
+      {
+        "_id": "12812",
+        "name": "Baby Supplies & Mother Care",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12813",
+        "name": "Baby Toys",
+        "parent_id": "12812",
+        "level": 3
+      },
+      {
+        "_id": "12814",
+        "name": "Dolls",
+        "parent_id": "12813",
+        "level": 4
+      },
+      {
+        "_id": "12815",
+        "name": "Teething Nursing Toy",
+        "parent_id": "12813",
+        "level": 4
+      },
+      {
+        "_id": "12816",
+        "name": "Baby Pacifiers",
+        "parent_id": "12813",
+        "level": 4
+      },
+      {
+        "_id": "12818",
+        "name": "Other Toys",
+        "parent_id": "12813",
+        "level": 4
+      },
+      {
+        "_id": "291029",
+        "name": "Early Child Education",
+        "parent_id": "12813",
+        "level": 4
+      },
+      {
+        "_id": "12819",
+        "name": "Safety Gear",
+        "parent_id": "12812",
+        "level": 3
+      },
+      {
+        "_id": "12820",
+        "name": "Baby Safety Lock & Socket Covers",
+        "parent_id": "12819",
+        "level": 4
+      },
+      {
+        "_id": "12821",
+        "name": "Kids Walking Helmet",
+        "parent_id": "12819",
+        "level": 4
+      },
+      {
+        "_id": "12822",
+        "name": "Knee Elbow Protector",
+        "parent_id": "12819",
+        "level": 4
+      },
+      {
+        "_id": "12823",
+        "name": "Edge & Corner Guard",
+        "parent_id": "12819",
+        "level": 4
+      },
+      {
+        "_id": "12824",
+        "name": "Baby Thermometer",
+        "parent_id": "12819",
+        "level": 4
+      },
+      {
+        "_id": "12825",
+        "name": "Other Safety Gear",
+        "parent_id": "12819",
+        "level": 4
+      },
+      {
+        "_id": "12826",
+        "name": "Baby Heath Care",
+        "parent_id": "12812",
+        "level": 3
+      },
+      {
+        "_id": "12827",
+        "name": "Mouth Care Supplies",
+        "parent_id": "12826",
+        "level": 4
+      },
+      {
+        "_id": "12828",
+        "name": "Bath Supplies",
+        "parent_id": "12826",
+        "level": 4
+      },
+      {
+        "_id": "12829",
+        "name": "Grooming Tools",
+        "parent_id": "12826",
+        "level": 4
+      },
+      {
+        "_id": "12830",
+        "name": "Bedding Supplies",
+        "parent_id": "12826",
+        "level": 4
+      },
+      {
+        "_id": "12831",
+        "name": "Winter Warm Cap",
+        "parent_id": "12826",
+        "level": 4
+      },
+      {
+        "_id": "12832",
+        "name": "Others",
+        "parent_id": "12826",
+        "level": 4
+      },
+      {
+        "_id": "12833",
+        "name": "Feeding Supplies",
+        "parent_id": "12812",
+        "level": 3
+      },
+      {
+        "_id": "12834",
+        "name": "Nipple & Nursing Bottles",
+        "parent_id": "12833",
+        "level": 4
+      },
+      {
+        "_id": "12835",
+        "name": "Dishware",
+        "parent_id": "12833",
+        "level": 4
+      },
+      {
+        "_id": "12836",
+        "name": "Breast Pump",
+        "parent_id": "12833",
+        "level": 4
+      },
+      {
+        "_id": "12837",
+        "name": "Milk Heater",
+        "parent_id": "12833",
+        "level": 4
+      },
+      {
+        "_id": "12838",
+        "name": "Milk Sterilizer",
+        "parent_id": "12833",
+        "level": 4
+      },
+      {
+        "_id": "12839",
+        "name": "Bibs & Burp Cloths",
+        "parent_id": "12833",
+        "level": 4
+      },
+      {
+        "_id": "12840",
+        "name": "Baby Food Storage",
+        "parent_id": "12833",
+        "level": 4
+      },
+      {
+        "_id": "12841",
+        "name": "Others",
+        "parent_id": "12833",
+        "level": 4
+      },
+      {
+        "_id": "12842",
+        "name": "Mother & Maternity Supplies",
+        "parent_id": "12812",
+        "level": 3
+      },
+      {
+        "_id": "12843",
+        "name": "Mommy Bag",
+        "parent_id": "12842",
+        "level": 4
+      },
+      {
+        "_id": "12844",
+        "name": "Holding Belt & Backstraps",
+        "parent_id": "12842",
+        "level": 4
+      },
+      {
+        "_id": "12845",
+        "name": "Strollers Accessories",
+        "parent_id": "12842",
+        "level": 4
+      },
+      {
+        "_id": "12846",
+        "name": "Postpartum Recovery Belt",
+        "parent_id": "12842",
+        "level": 4
+      },
+      {
+        "_id": "12847",
+        "name": "Others",
+        "parent_id": "12842",
+        "level": 4
+      },
+      {
+        "_id": "12848",
+        "name": "Pet Supplies",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12849",
+        "name": "Dog & Cat Supplies",
+        "parent_id": "12848",
+        "level": 3
+      },
+      {
+        "_id": "12850",
+        "name": "Clothes & Shoes",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12851",
+        "name": "Safety Seats & Kennels,Beds",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12852",
+        "name": "Feeding & Watering Supplies",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12853",
+        "name": "Collar & Training Belt",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12854",
+        "name": "Pet Tracker",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12855",
+        "name": "Grooming Tools",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12856",
+        "name": "Outdoor Carriers",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12857",
+        "name": "Toy Supplies",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12858",
+        "name": "Others Dog & Cat Supplies",
+        "parent_id": "12849",
+        "level": 4
+      },
+      {
+        "_id": "12859",
+        "name": "Fish & Aquariums",
+        "parent_id": "12848",
+        "level": 3
+      },
+      {
+        "_id": "12860",
+        "name": "Aquarium Fish Tank",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12861",
+        "name": "Aquarium Lighting",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12862",
+        "name": "Automatic Fish Feeder",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12863",
+        "name": "Aquarium Pumps",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12864",
+        "name": "Aquarium Heater & Chiller",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12865",
+        "name": "Aquarium CO2 Equipment",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12866",
+        "name": "Aquarium Filters",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12867",
+        "name": "Aquarium Sterilizer",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12871",
+        "name": "Aquarium Turtle Basking Platform",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12872",
+        "name": "Others Aquariums Supplies",
+        "parent_id": "12859",
+        "level": 4
+      },
+      {
+        "_id": "12873",
+        "name": "Other Pet Supplies",
+        "parent_id": "12848",
+        "level": 3
+      },
+      {
+        "_id": "12874",
+        "name": "Bird Toys",
+        "parent_id": "12873",
+        "level": 4
+      },
+      {
+        "_id": "12875",
+        "name": "Eggs Hatching",
+        "parent_id": "12873",
+        "level": 4
+      },
+      {
+        "_id": "12876",
+        "name": "Others",
+        "parent_id": "12873",
+        "level": 4
+      },
+      {
+        "_id": "12877",
+        "name": "Housekeeping Appliance",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12878",
+        "name": "Storage & Organization",
+        "parent_id": "12877",
+        "level": 3
+      },
+      {
+        "_id": "12879",
+        "name": "Tissue Holder",
+        "parent_id": "12878",
+        "level": 4
+      },
+      {
+        "_id": "12880",
+        "name": "Packing Press Bottle",
+        "parent_id": "12878",
+        "level": 4
+      },
+      {
+        "_id": "12881",
+        "name": "Storage Bag",
+        "parent_id": "12878",
+        "level": 4
+      },
+      {
+        "_id": "12882",
+        "name": "Storage Rack",
+        "parent_id": "12878",
+        "level": 4
+      },
+      {
+        "_id": "12883",
+        "name": "Storage Box",
+        "parent_id": "12878",
+        "level": 4
+      },
+      {
+        "_id": "12884",
+        "name": "Clothes Hanger",
+        "parent_id": "12878",
+        "level": 4
+      },
+      {
+        "_id": "12885",
+        "name": "Other Storage Tools",
+        "parent_id": "12878",
+        "level": 4
+      },
+      {
+        "_id": "12886",
+        "name": "Home Cleaning Supplies",
+        "parent_id": "12877",
+        "level": 3
+      },
+      {
+        "_id": "12887",
+        "name": "Cleaning Brushes",
+        "parent_id": "12886",
+        "level": 4
+      },
+      {
+        "_id": "12888",
+        "name": "Cleaning Cloths & Sponges",
+        "parent_id": "12886",
+        "level": 4
+      },
+      {
+        "_id": "12889",
+        "name": "Mops & Mop Accessories",
+        "parent_id": "12886",
+        "level": 4
+      },
+      {
+        "_id": "12890",
+        "name": "Cut Resistant Gloves",
+        "parent_id": "12886",
+        "level": 4
+      },
+      {
+        "_id": "12891",
+        "name": "Other Cleaning Tools",
+        "parent_id": "12886",
+        "level": 4
+      },
+      {
+        "_id": "291030",
+        "name": "Convenient Living Appliance",
+        "parent_id": "12877",
+        "level": 3
+      },
+      {
+        "_id": "291031",
+        "name": "Vacuum Sealing System",
+        "parent_id": "291030",
+        "level": 4
+      },
+      {
+        "_id": "291032",
+        "name": "Bamboo Crochet Hook",
+        "parent_id": "291030",
+        "level": 4
+      },
+      {
+        "_id": "291033",
+        "name": "Show Strecher",
+        "parent_id": "291030",
+        "level": 4
+      },
+      {
+        "_id": "291034",
+        "name": "Luggage Scale",
+        "parent_id": "291030",
+        "level": 4
+      },
+      {
+        "_id": "291035",
+        "name": "Water Cup & Kettle",
+        "parent_id": "291030",
+        "level": 4
+      },
+      {
+        "_id": "291036",
+        "name": "Rain Gear & Umbrellas",
+        "parent_id": "291030",
+        "level": 4
+      },
+      {
+        "_id": "291037",
+        "name": "Other Appliance",
+        "parent_id": "291030",
+        "level": 4
+      },
+      {
+        "_id": "12900",
+        "name": "Home Textile",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12901",
+        "name": "Bedding Textile",
+        "parent_id": "12900",
+        "level": 3
+      },
+      {
+        "_id": "12902",
+        "name": "Bedding Set",
+        "parent_id": "12901",
+        "level": 4
+      },
+      {
+        "_id": "12903",
+        "name": "Pillows & Pillow Case",
+        "parent_id": "12901",
+        "level": 4
+      },
+      {
+        "_id": "12904",
+        "name": "Crochet blanket",
+        "parent_id": "12901",
+        "level": 4
+      },
+      {
+        "_id": "12905",
+        "name": "Mosquito Net",
+        "parent_id": "12901",
+        "level": 4
+      },
+      {
+        "_id": "12906",
+        "name": "Window Treatments",
+        "parent_id": "12900",
+        "level": 3
+      },
+      {
+        "_id": "12908",
+        "name": "Window Screening",
+        "parent_id": "12906",
+        "level": 4
+      },
+      {
+        "_id": "291038",
+        "name": "Curtains",
+        "parent_id": "12906",
+        "level": 4
+      },
+      {
+        "_id": "12909",
+        "name": "Table & Seat Covers",
+        "parent_id": "12900",
+        "level": 3
+      },
+      {
+        "_id": "12910",
+        "name": "Table & Chair Linens",
+        "parent_id": "12909",
+        "level": 4
+      },
+      {
+        "_id": "12911",
+        "name": "Sofa Cushion",
+        "parent_id": "12909",
+        "level": 4
+      },
+      {
+        "_id": "12912",
+        "name": "Carpets, Mats & Rugs",
+        "parent_id": "12900",
+        "level": 3
+      },
+      {
+        "_id": "12913",
+        "name": "Towels",
+        "parent_id": "12900",
+        "level": 3
+      },
+      {
+        "_id": "12914",
+        "name": "Cotton Slipper Shoes",
+        "parent_id": "12900",
+        "level": 3
+      },
+      {
+        "_id": "12915",
+        "name": "Other Home Textile",
+        "parent_id": "12900",
+        "level": 3
+      },
+      {
+        "_id": "12916",
+        "name": "Gardening",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12917",
+        "name": "Watering Deco & Irrigation",
+        "parent_id": "12916",
+        "level": 3
+      },
+      {
+        "_id": "12918",
+        "name": "Water Pump",
+        "parent_id": "12917",
+        "level": 4
+      },
+      {
+        "_id": "12919",
+        "name": "Water Hose Pipe",
+        "parent_id": "12917",
+        "level": 4
+      },
+      {
+        "_id": "12921",
+        "name": "Water Gun Cleaner",
+        "parent_id": "12917",
+        "level": 4
+      },
+      {
+        "_id": "291039",
+        "name": "Irrigation Controller",
+        "parent_id": "12917",
+        "level": 4
+      },
+      {
+        "_id": "12922",
+        "name": "Garden Energy Equipment",
+        "parent_id": "12916",
+        "level": 3
+      },
+      {
+        "_id": "12924",
+        "name": "Solar Power Inverter",
+        "parent_id": "12922",
+        "level": 4
+      },
+      {
+        "_id": "291040",
+        "name": "Solar Charge Controller",
+        "parent_id": "12922",
+        "level": 4
+      },
+      {
+        "_id": "12925",
+        "name": "Garden Tools",
+        "parent_id": "12916",
+        "level": 3
+      },
+      {
+        "_id": "12926",
+        "name": "Rakes",
+        "parent_id": "12925",
+        "level": 4
+      },
+      {
+        "_id": "12927",
+        "name": "Digging Tools",
+        "parent_id": "12925",
+        "level": 4
+      },
+      {
+        "_id": "12928",
+        "name": "Trim Tools",
+        "parent_id": "12925",
+        "level": 4
+      },
+      {
+        "_id": "12929",
+        "name": "Tool Set",
+        "parent_id": "12925",
+        "level": 4
+      },
+      {
+        "_id": "12930",
+        "name": "Other Garden Tools",
+        "parent_id": "12925",
+        "level": 4
+      },
+      {
+        "_id": "12931",
+        "name": "Animal Repeller",
+        "parent_id": "12916",
+        "level": 3
+      },
+      {
+        "_id": "12932",
+        "name": "Mosquito Repeller",
+        "parent_id": "12931",
+        "level": 4
+      },
+      {
+        "_id": "12933",
+        "name": "Electronic Mouse Repeller",
+        "parent_id": "12931",
+        "level": 4
+      },
+      {
+        "_id": "12934",
+        "name": "Bathroom",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12935",
+        "name": "Bathroom Sink Faucet",
+        "parent_id": "12934",
+        "level": 3
+      },
+      {
+        "_id": "12936",
+        "name": "Shower Head & Shower Panel Set",
+        "parent_id": "12934",
+        "level": 3
+      },
+      {
+        "_id": "12937",
+        "name": "Bathroom Storage & Organisation",
+        "parent_id": "12934",
+        "level": 3
+      },
+      {
+        "_id": "12939",
+        "name": "Soap & Lotion Dispensers",
+        "parent_id": "12934",
+        "level": 3
+      },
+      {
+        "_id": "12940",
+        "name": "Bathroom Hardware & Coordinates",
+        "parent_id": "12934",
+        "level": 3
+      },
+      {
+        "_id": "291041",
+        "name": "Shower Curtains & Rods",
+        "parent_id": "12934",
+        "level": 3
+      },
+      {
+        "_id": "12941",
+        "name": "Party Supplies",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12942",
+        "name": "Halloween Supplies",
+        "parent_id": "12941",
+        "level": 3
+      },
+      {
+        "_id": "12943",
+        "name": "Christmas Supplies",
+        "parent_id": "12941",
+        "level": 3
+      },
+      {
+        "_id": "12944",
+        "name": "Birthday Supplies",
+        "parent_id": "12941",
+        "level": 3
+      },
+      {
+        "_id": "12945",
+        "name": "Wedding Supplies",
+        "parent_id": "12941",
+        "level": 3
+      },
+      {
+        "_id": "12946",
+        "name": "Home Furniture",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "12947",
+        "name": "Patio Furniture",
+        "parent_id": "12946",
+        "level": 3
+      },
+      {
+        "_id": "12948",
+        "name": "Garden Sun Shade Umbrella",
+        "parent_id": "12947",
+        "level": 4
+      },
+      {
+        "_id": "12949",
+        "name": "Picnic Table Bench & Chair",
+        "parent_id": "12947",
+        "level": 4
+      },
+      {
+        "_id": "12950",
+        "name": "Garden Party Tent",
+        "parent_id": "12947",
+        "level": 4
+      },
+      {
+        "_id": "12951",
+        "name": "Backyard Lawn Chair",
+        "parent_id": "12947",
+        "level": 4
+      },
+      {
+        "_id": "12952",
+        "name": "Camping Hammock",
+        "parent_id": "12947",
+        "level": 4
+      },
+      {
+        "_id": "12953",
+        "name": "Garden Bistro Set",
+        "parent_id": "12947",
+        "level": 4
+      },
+      {
+        "_id": "12954",
+        "name": "Other Patio Furniture",
+        "parent_id": "12947",
+        "level": 4
+      },
+      {
+        "_id": "12955",
+        "name": "Living Room Furniture",
+        "parent_id": "12946",
+        "level": 3
+      },
+      {
+        "_id": "12956",
+        "name": "Sofas & armchairs",
+        "parent_id": "12955",
+        "level": 4
+      },
+      {
+        "_id": "12957",
+        "name": "Coffee & side tables",
+        "parent_id": "12955",
+        "level": 4
+      },
+      {
+        "_id": "12958",
+        "name": "Living room storage",
+        "parent_id": "12955",
+        "level": 4
+      },
+      {
+        "_id": "12959",
+        "name": "Bedroom Furniture",
+        "parent_id": "12946",
+        "level": 3
+      },
+      {
+        "_id": "12960",
+        "name": "Beds",
+        "parent_id": "12959",
+        "level": 4
+      },
+      {
+        "_id": "12961",
+        "name": "Mirrors",
+        "parent_id": "12959",
+        "level": 4
+      },
+      {
+        "_id": "12962",
+        "name": "Bedroom storage",
+        "parent_id": "12959",
+        "level": 4
+      },
+      {
+        "_id": "12963",
+        "name": "Furniture Set",
+        "parent_id": "12959",
+        "level": 4
+      },
+      {
+        "_id": "12964",
+        "name": "Dinning Room Furniture",
+        "parent_id": "12946",
+        "level": 3
+      },
+      {
+        "_id": "12965",
+        "name": "Dining tables",
+        "parent_id": "12964",
+        "level": 4
+      },
+      {
+        "_id": "12966",
+        "name": "Dining Chairs",
+        "parent_id": "12964",
+        "level": 4
+      },
+      {
+        "_id": "12967",
+        "name": "Dining Table & Chair sets",
+        "parent_id": "12964",
+        "level": 4
+      },
+      {
+        "_id": "12968",
+        "name": "Bar tables & chairs",
+        "parent_id": "12964",
+        "level": 4
+      },
+      {
+        "_id": "12969",
+        "name": "Dining storage",
+        "parent_id": "12964",
+        "level": 4
+      },
+      {
+        "_id": "12970",
+        "name": "Kitchen Room Furniture",
+        "parent_id": "12946",
+        "level": 3
+      },
+      {
+        "_id": "12971",
+        "name": "Cabinets & Front",
+        "parent_id": "12970",
+        "level": 4
+      },
+      {
+        "_id": "12972",
+        "name": "Wall Storage",
+        "parent_id": "12970",
+        "level": 4
+      },
+      {
+        "_id": "12973",
+        "name": "Work Space Furniture",
+        "parent_id": "12946",
+        "level": 3
+      },
+      {
+        "_id": "12974",
+        "name": "Desks & tables",
+        "parent_id": "12973",
+        "level": 4
+      },
+      {
+        "_id": "12975",
+        "name": "Office chairs",
+        "parent_id": "12973",
+        "level": 4
+      },
+      {
+        "_id": "12976",
+        "name": "Workspace storage",
+        "parent_id": "12973",
+        "level": 4
+      },
+      {
+        "_id": "12977",
+        "name": "Children's Furniture",
+        "parent_id": "12946",
+        "level": 3
+      },
+      {
+        "_id": "12978",
+        "name": "Tables & Chairs",
+        "parent_id": "12977",
+        "level": 4
+      },
+      {
+        "_id": "12979",
+        "name": "Children's Furniture Set",
+        "parent_id": "12977",
+        "level": 4
+      },
+      {
+        "_id": "13075",
+        "name": "Lights & Lighting",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "13076",
+        "name": "Outdoor Lighting",
+        "parent_id": "13075",
+        "level": 3
+      },
+      {
+        "_id": "13077",
+        "name": "Solar Lights",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13078",
+        "name": "Flood Lights",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13079",
+        "name": "Underwater Lights",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13080",
+        "name": "Camping Lights",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13081",
+        "name": "Landscape Lights",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13082",
+        "name": "Outdoor Wall Lights",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13083",
+        "name": "Lawn Lights",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13084",
+        "name": "Corridor Lights",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13085",
+        "name": "Others",
+        "parent_id": "13076",
+        "level": 4
+      },
+      {
+        "_id": "13086",
+        "name": "Indoor Lighting",
+        "parent_id": "13075",
+        "level": 3
+      },
+      {
+        "_id": "13087",
+        "name": "Bulbs & Lamps",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13088",
+        "name": "Pendant Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13089",
+        "name": "Night Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13090",
+        "name": "Down Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13091",
+        "name": "Ceiling Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13092",
+        "name": "Panel Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13093",
+        "name": "Indoor Wall Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13094",
+        "name": "Table Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13095",
+        "name": "Floor Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13096",
+        "name": "Cabinet Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13097",
+        "name": "Spot Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13098",
+        "name": "Track Rail Lights",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13099",
+        "name": "LED Luminous Diode",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13100",
+        "name": "Others",
+        "parent_id": "13086",
+        "level": 4
+      },
+      {
+        "_id": "13101",
+        "name": "Holiday Lighting",
+        "parent_id": "13075",
+        "level": 3
+      },
+      {
+        "_id": "13102",
+        "name": "LED Strip Lights",
+        "parent_id": "13101",
+        "level": 4
+      },
+      {
+        "_id": "13103",
+        "name": "LED String Lights",
+        "parent_id": "13101",
+        "level": 4
+      },
+      {
+        "_id": "13104",
+        "name": "Others",
+        "parent_id": "13101",
+        "level": 4
+      },
+      {
+        "_id": "13105",
+        "name": "Professional Lighting",
+        "parent_id": "13075",
+        "level": 3
+      },
+      {
+        "_id": "13106",
+        "name": "Industrial Lights",
+        "parent_id": "13105",
+        "level": 4
+      },
+      {
+        "_id": "13107",
+        "name": "Stage Lights",
+        "parent_id": "13105",
+        "level": 4
+      },
+      {
+        "_id": "13108",
+        "name": "Growing Lights",
+        "parent_id": "13105",
+        "level": 4
+      },
+      {
+        "_id": "13109",
+        "name": "Aquarium Lights",
+        "parent_id": "13105",
+        "level": 4
+      },
+      {
+        "_id": "13110",
+        "name": "Flashlight",
+        "parent_id": "13075",
+        "level": 3
+      },
+      {
+        "_id": "13111",
+        "name": "LED Flashlights",
+        "parent_id": "13110",
+        "level": 4
+      },
+      {
+        "_id": "13112",
+        "name": "Solar Flashlights",
+        "parent_id": "13110",
+        "level": 4
+      },
+      {
+        "_id": "13113",
+        "name": "Laser Beam Pointers",
+        "parent_id": "13110",
+        "level": 4
+      },
+      {
+        "_id": "13114",
+        "name": "Other Flashlights",
+        "parent_id": "13110",
+        "level": 4
+      },
+      {
+        "_id": "13115",
+        "name": "Flashlight Accessories",
+        "parent_id": "13110",
+        "level": 4
+      },
+      {
+        "_id": "13116",
+        "name": "Battery & Chargers",
+        "parent_id": "13110",
+        "level": 4
+      },
+      {
+        "_id": "13117",
+        "name": "Novelty lighting",
+        "parent_id": "13075",
+        "level": 3
+      },
+      {
+        "_id": "13118",
+        "name": "LED Lighting Accessories",
+        "parent_id": "13075",
+        "level": 3
+      },
+      {
+        "_id": "13119",
+        "name": "Voltage Transformers",
+        "parent_id": "13118",
+        "level": 4
+      },
+      {
+        "_id": "13120",
+        "name": "Lamp Holder Adapters",
+        "parent_id": "13118",
+        "level": 4
+      },
+      {
+        "_id": "13121",
+        "name": "Lamp Switches",
+        "parent_id": "13118",
+        "level": 4
+      },
+      {
+        "_id": "13122",
+        "name": "LED Chip Lights",
+        "parent_id": "13118",
+        "level": 4
+      },
+      {
+        "_id": "13123",
+        "name": "Strip Lights Power Supply",
+        "parent_id": "13118",
+        "level": 4
+      },
+      {
+        "_id": "13124",
+        "name": "LED Module",
+        "parent_id": "13118",
+        "level": 4
+      },
+      {
+        "_id": "13125",
+        "name": "Others",
+        "parent_id": "13118",
+        "level": 4
+      },
+      {
+        "_id": "8108",
+        "name": "",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "290963",
+        "name": "Electronic Cigarettes",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "290964",
+        "name": "Vapor Kit",
+        "parent_id": "290963",
+        "level": 3
+      },
+      {
+        "_id": "291007",
+        "name": "Arts & Crafts",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "291008",
+        "name": "Resin Crafts",
+        "parent_id": "291007",
+        "level": 3
+      },
+      {
+        "_id": "291009",
+        "name": "Metal Crafts",
+        "parent_id": "291007",
+        "level": 3
+      },
+      {
+        "_id": "291010",
+        "name": "Glass Crafts",
+        "parent_id": "291007",
+        "level": 3
+      },
+      {
+        "_id": "291011",
+        "name": "3D Printing Crafts",
+        "parent_id": "291007",
+        "level": 3
+      },
+      {
+        "_id": "291012",
+        "name": "Composite Crafts",
+        "parent_id": "291007",
+        "level": 3
+      },
+      {
+        "_id": "291013",
+        "name": "Candle Crafts",
+        "parent_id": "291007",
+        "level": 3
+      },
+      {
+        "_id": "291014",
+        "name": "Wall Crafts",
+        "parent_id": "291007",
+        "level": 3
+      },
+      {
+        "_id": "291015",
+        "name": "Kitchen Electronics",
+        "parent_id": "12605",
+        "level": 2
+      },
+      {
+        "_id": "291016",
+        "name": "Electronic Meat Grinder",
+        "parent_id": "291015",
+        "level": 3
+      },
+      {
+        "_id": "291017",
+        "name": "Kitchen Stand Mixer",
+        "parent_id": "291015",
+        "level": 3
+      },
+      {
+        "_id": "291018",
+        "name": "Electronic Milk Frother",
+        "parent_id": "291015",
+        "level": 3
+      },
+      {
+        "_id": "291019",
+        "name": "Popcorn Making Machine",
+        "parent_id": "291015",
+        "level": 3
+      },
+      {
+        "_id": "291020",
+        "name": "Baker Electric",
+        "parent_id": "291015",
+        "level": 3
+      },
+      {
+        "_id": "12647",
+        "name": "Health & Beauty",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12648",
+        "name": "Makeup Tool & Accessories",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "12649",
+        "name": "Face",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12650",
+        "name": "Eyes",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12651",
+        "name": "Lips",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12652",
+        "name": "Face Cleaning Tools",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12653",
+        "name": "Eyebrow Shaping Tools",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12654",
+        "name": "Eyes Tools & Accessories",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12655",
+        "name": "Skincare Tools & Accessoris",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12656",
+        "name": "Cosmetic Bags",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12657",
+        "name": "Cosmetic Brushes",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12658",
+        "name": "Other Makeup Accessoris",
+        "parent_id": "12648",
+        "level": 3
+      },
+      {
+        "_id": "12659",
+        "name": "Wig & Accessories",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "12660",
+        "name": "Fashion Wigs",
+        "parent_id": "12659",
+        "level": 3
+      },
+      {
+        "_id": "12661",
+        "name": "Gradient Wigs",
+        "parent_id": "12659",
+        "level": 3
+      },
+      {
+        "_id": "12662",
+        "name": "Other Wigs Accessories",
+        "parent_id": "12659",
+        "level": 3
+      },
+      {
+        "_id": "12663",
+        "name": "Hair Care",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "12664",
+        "name": "Hair Dryers",
+        "parent_id": "12663",
+        "level": 3
+      },
+      {
+        "_id": "12665",
+        "name": "Curling & Straightening Irons",
+        "parent_id": "12663",
+        "level": 3
+      },
+      {
+        "_id": "12666",
+        "name": "Hair Scissors",
+        "parent_id": "12663",
+        "level": 3
+      },
+      {
+        "_id": "12667",
+        "name": "Styling Tools",
+        "parent_id": "12663",
+        "level": 3
+      },
+      {
+        "_id": "12668",
+        "name": "Nail Care",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "12669",
+        "name": "Nail Polish",
+        "parent_id": "12668",
+        "level": 3
+      },
+      {
+        "_id": "12670",
+        "name": "Nail Art Decorations",
+        "parent_id": "12668",
+        "level": 3
+      },
+      {
+        "_id": "12671",
+        "name": "Nail Art Nursing Machine",
+        "parent_id": "12668",
+        "level": 3
+      },
+      {
+        "_id": "12672",
+        "name": "Nail Dryers",
+        "parent_id": "12668",
+        "level": 3
+      },
+      {
+        "_id": "12673",
+        "name": "Nail Art Accessories",
+        "parent_id": "12668",
+        "level": 3
+      },
+      {
+        "_id": "12674",
+        "name": "Oral Care",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "12675",
+        "name": "Health & Personal Care",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "12676",
+        "name": "Testing Equipment & Accessories",
+        "parent_id": "12675",
+        "level": 3
+      },
+      {
+        "_id": "12677",
+        "name": "Wax Therapy Instruments & Accessories",
+        "parent_id": "12675",
+        "level": 3
+      },
+      {
+        "_id": "12678",
+        "name": "Aromatherapy Products & Accessories",
+        "parent_id": "12675",
+        "level": 3
+      },
+      {
+        "_id": "12679",
+        "name": "Slimming Equipment & Accessories",
+        "parent_id": "12675",
+        "level": 3
+      },
+      {
+        "_id": "12680",
+        "name": "Body Care Sets",
+        "parent_id": "12675",
+        "level": 3
+      },
+      {
+        "_id": "12681",
+        "name": "Shaving & Hair Removal",
+        "parent_id": "12675",
+        "level": 3
+      },
+      {
+        "_id": "12682",
+        "name": "Massage Tools",
+        "parent_id": "12675",
+        "level": 3
+      },
+      {
+        "_id": "12683",
+        "name": "Other",
+        "parent_id": "12675",
+        "level": 3
+      },
+      {
+        "_id": "12684",
+        "name": "Tattoos & Body Art",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "12685",
+        "name": "Tattoo Machines",
+        "parent_id": "12684",
+        "level": 3
+      },
+      {
+        "_id": "12686",
+        "name": "Tattoo Power Supplies",
+        "parent_id": "12684",
+        "level": 3
+      },
+      {
+        "_id": "12687",
+        "name": "Tattoo Tools",
+        "parent_id": "12684",
+        "level": 3
+      },
+      {
+        "_id": "12688",
+        "name": "Eyebrow Tattoo Tools",
+        "parent_id": "12684",
+        "level": 3
+      },
+      {
+        "_id": "12690",
+        "name": "Body Art & Accessories",
+        "parent_id": "12684",
+        "level": 3
+      },
+      {
+        "_id": "291057",
+        "name": "Tattoo Sets",
+        "parent_id": "12684",
+        "level": 3
+      },
+      {
+        "_id": "12691",
+        "name": "Adult Products",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "12702",
+        "name": "Male Device",
+        "parent_id": "12691",
+        "level": 3
+      },
+      {
+        "_id": "12703",
+        "name": "Masturbation Cup",
+        "parent_id": "12702",
+        "level": 4
+      },
+      {
+        "_id": "12704",
+        "name": "Realistic Vagina",
+        "parent_id": "12702",
+        "level": 4
+      },
+      {
+        "_id": "12705",
+        "name": "Penis Pump & Enlarge",
+        "parent_id": "12702",
+        "level": 4
+      },
+      {
+        "_id": "12706",
+        "name": "Other Male Accessories",
+        "parent_id": "12702",
+        "level": 4
+      },
+      {
+        "_id": "12707",
+        "name": "Sex Product",
+        "parent_id": "12691",
+        "level": 3
+      },
+      {
+        "_id": "12708",
+        "name": "Sex Toys",
+        "parent_id": "12707",
+        "level": 4
+      },
+      {
+        "_id": "12709",
+        "name": "Delay Ring",
+        "parent_id": "12707",
+        "level": 4
+      },
+      {
+        "_id": "12710",
+        "name": "Adult Games",
+        "parent_id": "12707",
+        "level": 4
+      },
+      {
+        "_id": "12711",
+        "name": "Other Sex Product",
+        "parent_id": "12707",
+        "level": 4
+      },
+      {
+        "_id": "12712",
+        "name": "DIY Tools & Accessories",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "291042",
+        "name": "Medical Treatments",
+        "parent_id": "12647",
+        "level": 2
+      },
+      {
+        "_id": "291043",
+        "name": "Teeth Care",
+        "parent_id": "291042",
+        "level": 3
+      },
+      {
+        "_id": "291044",
+        "name": "Message Treatment",
+        "parent_id": "291042",
+        "level": 3
+      },
+      {
+        "_id": "291045",
+        "name": "Dentistry",
+        "parent_id": "291042",
+        "level": 3
+      },
+      {
+        "_id": "291046",
+        "name": "Dental Instruments & Accessories",
+        "parent_id": "291045",
+        "level": 4
+      },
+      {
+        "_id": "291047",
+        "name": "Rehabilitation Aids",
+        "parent_id": "291042",
+        "level": 3
+      },
+      {
+        "_id": "291048",
+        "name": "Walking Aids & Accessories",
+        "parent_id": "291047",
+        "level": 4
+      },
+      {
+        "_id": "291049",
+        "name": "Rehabilitation Articles",
+        "parent_id": "291047",
+        "level": 4
+      },
+      {
+        "_id": "291050",
+        "name": "Hearing-aid",
+        "parent_id": "291047",
+        "level": 4
+      },
+      {
+        "_id": "291051",
+        "name": "Medical Supplies",
+        "parent_id": "291042",
+        "level": 3
+      },
+      {
+        "_id": "291052",
+        "name": "ENT Supplies",
+        "parent_id": "291051",
+        "level": 4
+      },
+      {
+        "_id": "291053",
+        "name": "Disposable Supplies",
+        "parent_id": "291051",
+        "level": 4
+      },
+      {
+        "_id": "291054",
+        "name": "Medical Treatment",
+        "parent_id": "291051",
+        "level": 4
+      },
+      {
+        "_id": "291055",
+        "name": "First Aid",
+        "parent_id": "291042",
+        "level": 3
+      },
+      {
+        "_id": "291056",
+        "name": "Medical Carts & Others",
+        "parent_id": "291055",
+        "level": 4
+      },
+      {
+        "_id": "13034",
+        "name": "Car Accessories",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "13035",
+        "name": "Vehicle Infotainment",
+        "parent_id": "13034",
+        "level": 2
+      },
+      {
+        "_id": "13036",
+        "name": "Car Video & Audio",
+        "parent_id": "13035",
+        "level": 3
+      },
+      {
+        "_id": "13037",
+        "name": "Car DVR",
+        "parent_id": "13035",
+        "level": 3
+      },
+      {
+        "_id": "13038",
+        "name": "Audio Adapters",
+        "parent_id": "13035",
+        "level": 3
+      },
+      {
+        "_id": "13039",
+        "name": "Car GPS & Navigation",
+        "parent_id": "13034",
+        "level": 2
+      },
+      {
+        "_id": "13040",
+        "name": "GPS Navigation",
+        "parent_id": "13039",
+        "level": 3
+      },
+      {
+        "_id": "13041",
+        "name": "Tracking Devices",
+        "parent_id": "13039",
+        "level": 3
+      },
+      {
+        "_id": "13042",
+        "name": "Car Security & Alarms",
+        "parent_id": "13034",
+        "level": 2
+      },
+      {
+        "_id": "13043",
+        "name": "Car Entry System",
+        "parent_id": "13042",
+        "level": 3
+      },
+      {
+        "_id": "13044",
+        "name": "Radar System",
+        "parent_id": "13042",
+        "level": 3
+      },
+      {
+        "_id": "13045",
+        "name": "Tire Pressure Monitoring System",
+        "parent_id": "13042",
+        "level": 3
+      },
+      {
+        "_id": "13046",
+        "name": "Car Rearview Monitor & Accessories",
+        "parent_id": "13042",
+        "level": 3
+      },
+      {
+        "_id": "13047",
+        "name": "Other Accessories",
+        "parent_id": "13042",
+        "level": 3
+      },
+      {
+        "_id": "13048",
+        "name": "Car Electronics",
+        "parent_id": "13034",
+        "level": 2
+      },
+      {
+        "_id": "13049",
+        "name": "HUD",
+        "parent_id": "13048",
+        "level": 3
+      },
+      {
+        "_id": "13051",
+        "name": "OBD & Diagnostic Tools",
+        "parent_id": "13048",
+        "level": 3
+      },
+      {
+        "_id": "13052",
+        "name": "Car Chargers & jump starters",
+        "parent_id": "13048",
+        "level": 3
+      },
+      {
+        "_id": "13053",
+        "name": "Car 12V Portable Appliances",
+        "parent_id": "13048",
+        "level": 3
+      },
+      {
+        "_id": "13054",
+        "name": "Car Lighting & Lamps",
+        "parent_id": "13048",
+        "level": 3
+      },
+      {
+        "_id": "13055",
+        "name": "Car fuses & Connector",
+        "parent_id": "13048",
+        "level": 3
+      },
+      {
+        "_id": "13056",
+        "name": "Other Accessories",
+        "parent_id": "13048",
+        "level": 3
+      },
+      {
+        "_id": "291059",
+        "name": "Converters & Inverters",
+        "parent_id": "13048",
+        "level": 3
+      },
+      {
+        "_id": "13057",
+        "name": "Auto Parts & Accessories",
+        "parent_id": "13034",
+        "level": 2
+      },
+      {
+        "_id": "13058",
+        "name": "Interior Parts",
+        "parent_id": "13057",
+        "level": 3
+      },
+      {
+        "_id": "13059",
+        "name": "Exterior Parts",
+        "parent_id": "13057",
+        "level": 3
+      },
+      {
+        "_id": "13060",
+        "name": "Performance Racing Parts",
+        "parent_id": "13057",
+        "level": 3
+      },
+      {
+        "_id": "13061",
+        "name": "RV & Trailer & Camper Parts",
+        "parent_id": "13057",
+        "level": 3
+      },
+      {
+        "_id": "13062",
+        "name": "Other Car Parts",
+        "parent_id": "13057",
+        "level": 3
+      },
+      {
+        "_id": "13063",
+        "name": "ATV & Boat & Other Vehicle Parts",
+        "parent_id": "13057",
+        "level": 3
+      },
+      {
+        "_id": "13064",
+        "name": "Auto Repair & Beatuty",
+        "parent_id": "13034",
+        "level": 2
+      },
+      {
+        "_id": "13065",
+        "name": "Auto Supplies",
+        "parent_id": "13064",
+        "level": 3
+      },
+      {
+        "_id": "13066",
+        "name": "Auto Tools",
+        "parent_id": "13064",
+        "level": 3
+      },
+      {
+        "_id": "13067",
+        "name": "Auto Decoration",
+        "parent_id": "13064",
+        "level": 3
+      },
+      {
+        "_id": "13068",
+        "name": "Other Accessories",
+        "parent_id": "13064",
+        "level": 3
+      },
+      {
+        "_id": "13069",
+        "name": "Motorcycle Accessories",
+        "parent_id": "13034",
+        "level": 2
+      },
+      {
+        "_id": "13070",
+        "name": "Apparel",
+        "parent_id": "13069",
+        "level": 3
+      },
+      {
+        "_id": "13071",
+        "name": "Motorcycle Parts",
+        "parent_id": "13069",
+        "level": 3
+      },
+      {
+        "_id": "13072",
+        "name": "Electronics",
+        "parent_id": "13069",
+        "level": 3
+      },
+      {
+        "_id": "13073",
+        "name": "Turning & Decoration",
+        "parent_id": "13069",
+        "level": 3
+      },
+      {
+        "_id": "13074",
+        "name": "Other Accessories",
+        "parent_id": "13069",
+        "level": 3
+      },
+      {
+        "_id": "12980",
+        "name": "Test Equipment & Tools",
+        "parent_id": 0,
+        "level": 1
+      },
+      {
+        "_id": "12981",
+        "name": "Measurement & Analysis Instruments",
+        "parent_id": "12980",
+        "level": 2
+      },
+      {
+        "_id": "12982",
+        "name": "Digital Multimeters & Oscilloscopes",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12983",
+        "name": "Laser Rangefinders",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12984",
+        "name": "Optical Instruments",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12985",
+        "name": "Temperature & Humidity Measurements",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12986",
+        "name": "Microscopes & Endoscope",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12987",
+        "name": "Electrical Measuring Tools",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12988",
+        "name": "Digital Scales",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12989",
+        "name": "Voltage & Current Testers",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12990",
+        "name": "Infrared Thermometer",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12991",
+        "name": "Gas detection equipment",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12992",
+        "name": "Water quality analysis equipment",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12993",
+        "name": "Soil analysis equipment",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12994",
+        "name": "Other Nature Element Measurements",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12995",
+        "name": "Battery Testers",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12996",
+        "name": "Metal Detectors",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12997",
+        "name": "Other Instruments",
+        "parent_id": "12981",
+        "level": 3
+      },
+      {
+        "_id": "12998",
+        "name": "Power & Electrical Tools",
+        "parent_id": "12980",
+        "level": 2
+      },
+      {
+        "_id": "12999",
+        "name": "Power Drill",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "13000",
+        "name": "Batteries",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "13001",
+        "name": "Drill",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "13002",
+        "name": "Saw Blade",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "13003",
+        "name": "Buffing Pad",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "13004",
+        "name": "Heat Gun",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "13005",
+        "name": "Glue Gun",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "13006",
+        "name": "Power Tool Parts",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "291058",
+        "name": "Electrical Equipment & Supplies",
+        "parent_id": "12998",
+        "level": 3
+      },
+      {
+        "_id": "13008",
+        "name": "Hardware & Gadgets",
+        "parent_id": "12980",
+        "level": 2
+      },
+      {
+        "_id": "13009",
+        "name": "Hardware & Accessories",
+        "parent_id": "13008",
+        "level": 3
+      },
+      {
+        "_id": "13010",
+        "name": "Machinery Parts",
+        "parent_id": "13008",
+        "level": 3
+      },
+      {
+        "_id": "13011",
+        "name": "Repair Parts & Accessories",
+        "parent_id": "13008",
+        "level": 3
+      },
+      {
+        "_id": "13012",
+        "name": "Magnifiers",
+        "parent_id": "13008",
+        "level": 3
+      },
+      {
+        "_id": "13013",
+        "name": "Others",
+        "parent_id": "13008",
+        "level": 3
+      },
+      {
+        "_id": "13014",
+        "name": "Professional Tools",
+        "parent_id": "12980",
+        "level": 2
+      },
+      {
+        "_id": "13015",
+        "name": "Electrical Soldering Welding Tools",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13016",
+        "name": "Laser Equipment",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13017",
+        "name": "Screwdriver & Screwdriver Set",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13018",
+        "name": "Tweezers",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13019",
+        "name": "Cutting Tools",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13020",
+        "name": "Wrenches",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13021",
+        "name": "Pliers",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13022",
+        "name": "Chisel",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13023",
+        "name": "Tool Kit",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13024",
+        "name": "Lock Picks & Tools",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13025",
+        "name": "Other Tools",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13026",
+        "name": "Gift Tools",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13027",
+        "name": "Safety & Protective Gear",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13028",
+        "name": "DIY Tools",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13029",
+        "name": "Others",
+        "parent_id": "13014",
+        "level": 3
+      },
+      {
+        "_id": "13030",
+        "name": "Electronic Components",
+        "parent_id": "12980",
+        "level": 2
+      },
+      {
+        "_id": "13031",
+        "name": "Development board",
+        "parent_id": "13030",
+        "level": 3
+      },
+      {
+        "_id": "13032",
+        "name": "Modules",
+        "parent_id": "13030",
+        "level": 3
+      },
+      {
+        "_id": "13033",
+        "name": "Connectors & Components",
+        "parent_id": "13030",
+        "level": 3
+      }
+    ]
+  }
